@@ -1,0 +1,30 @@
+{"sentence1": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "sentence2": "The church has cracks in the ceiling.", "gold_label": "neutral"}
+{"sentence1": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "sentence2": "The church is filled with song.", "gold_label": "entailment"}
+{"sentence1": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "sentence2": "A choir singing at a baseball game.", "gold_label": "contradiction"}
+{"sentence1": "A woman with a green headscarf, blue shirt and a very big grin.", "sentence2": "The woman is young.", "gold_label": "neutral"}
+{"sentence1": "A woman with a green headscarf, blue shirt and a very big grin.", "sentence2": "The woman is very happy.", "gold_label": "entailment"}
+{"sentence1": "A woman with a green headscarf, blue shirt and a very big grin.", "sentence2": "The woman has been shot.", "gold_label": "contradiction"}
+{"sentence1": "An old man with a package poses in front of an advertisement.", "sentence2": "A man poses in front of an ad.", "gold_label": "entailment"}
+{"sentence1": "An old man with a package poses in front of an advertisement.", "sentence2": "A man poses in front of an ad for beer.", "gold_label": "neutral"}
+{"sentence1": "An old man with a package poses in front of an advertisement.", "sentence2": "A man walks by an ad.", "gold_label": "contradiction"}
+{"sentence1": "A statue at a museum that no seems to be looking at.", "sentence2": "The statue is offensive and people are mad that it is on display.", "gold_label": "neutral"}
+{"sentence1": "A statue at a museum that no seems to be looking at.", "sentence2": "There is a statue that not many people seem to be interested in.", "gold_label": "entailment"}
+{"sentence1": "A statue at a museum that no seems to be looking at.", "sentence2": "Tons of people are gathered around the statue.", "gold_label": "contradiction"}
+{"sentence1": "A land rover is being driven across a river.", "sentence2": "A Land Rover is splashing water as it crosses a river.", "gold_label": "entailment"}
+{"sentence1": "A land rover is being driven across a river.", "sentence2": "A vehicle is crossing a river.", "gold_label": "entailment"}
+{"sentence1": "A land rover is being driven across a river.", "sentence2": "A sedan is stuck in the middle of a river.", "gold_label": "contradiction"}
+{"sentence1": "A man playing an electric guitar on stage.", "sentence2": "A man playing banjo on the floor.", "gold_label": "contradiction"}
+{"sentence1": "A man playing an electric guitar on stage.", "sentence2": "A man playing guitar on stage.", "gold_label": "entailment"}
+{"sentence1": "A man playing an electric guitar on stage.", "sentence2": "A man is performing for cash.", "gold_label": "neutral"}
+{"sentence1": "A blond-haired doctor and her African american assistant looking threw new medical manuals.", "sentence2": "A doctor is looking at a book", "gold_label": "entailment"}
+{"sentence1": "A blond-haired doctor and her African american assistant looking threw new medical manuals.", "sentence2": "A man is eating pb and j", "gold_label": "contradiction"}
+{"sentence1": "A blond-haired doctor and her African american assistant looking threw new medical manuals.", "sentence2": "A doctor is studying", "gold_label": "neutral"}
+{"sentence1": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.", "sentence2": "A boy runs into a wall", "gold_label": "contradiction"}
+{"sentence1": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.", "sentence2": "A tan girl runs leans over an object", "gold_label": "entailment"}
+{"sentence1": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.", "sentence2": "A man watches his daughter leap", "gold_label": "neutral"}
+{"sentence1": "A young family enjoys feeling ocean waves lap at their feet.", "sentence2": "A young man and woman take their child to the beach for the first time.", "gold_label": "neutral"}
+{"sentence1": "A young family enjoys feeling ocean waves lap at their feet.", "sentence2": "A family is out at a restaurant.", "gold_label": "contradiction"}
+{"sentence1": "A young family enjoys feeling ocean waves lap at their feet.", "sentence2": "A family is at the beach.", "gold_label": "entailment"}
+{"sentence1": "A couple walk hand in hand down a street.", "sentence2": "A couple is walking together.", "gold_label": "entailment"}
+{"sentence1": "A couple walk hand in hand down a street.", "sentence2": "The couple is married.", "gold_label": "neutral"}
+{"sentence1": "A couple walk hand in hand down a street.", "sentence2": "A couple is sitting on a bench.", "gold_label": "contradiction"}
