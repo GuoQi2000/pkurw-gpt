@@ -1,0 +1,31 @@
+{"sentence1": "How do I get funding for my web based startup idea ?", "sentence2": "How do I get seed funding pre product ?", "gold_label": "entailment"}
+{"sentence1": "Is honey a viable alternative to sugar for diabetics ?", "sentence2": "How would you compare the United States ' euthanasia laws to Denmark ?", "gold_label": "non-entailment"}
+{"sentence1": "How can I stop my depression ?", "sentence2": "What can I do to stop being depressed ?", "gold_label": "entailment"}
+{"sentence1": "Why is Mia Khalifa suddenly so popular ?", "sentence2": "What are some tricks male porn stars have to last longer ?", "gold_label": "non-entailment"}
+{"sentence1": "How do you cook chicken gizzards ? What are the best recipes ?", "sentence2": "What can I do with chicken gizzards ?", "gold_label": "entailment"}
+{"sentence1": "How much money do you need to earn to live a comfortable life in INDIA ?", "sentence2": "How much money do you need to earn to live a comfortable life in Japan ?", "gold_label": "non-entailment"}
+{"sentence1": "When did you figure out that you want to be a graphic designer ?", "sentence2": "How did you figured out that you want to be a graphic designer ?", "gold_label": "entailment"}
+{"sentence1": "What is your favorite song and why ?", "sentence2": "What is your favorite song or artist ?", "gold_label": "non-entailment"}
+{"sentence1": "Which is the best android device to buy under 15000 ?", "sentence2": "What are the best smartphones under 15000 ?", "gold_label": "entailment"}
+{"sentence1": "Is there a chance that the faithless electors can change the result of 2016 US presidential election on December 19th 2016 ?", "sentence2": "Does the Electoral College have the power to reject Trump , or any candidate for that matter , if enough electors decided to change their vote ?", "gold_label": "non-entailment"}
+{"sentence1": "Which are some of the best pictures ever taken ?", "sentence2": "What are the most amazing photos you have ever taken ?", "gold_label": "entailment"}
+{"sentence1": "How much do graduation marks affect our admission in IIM and FMS if 10th and 12th score is 90 + ?", "sentence2": "I have 90 % in 10th grade , 87 % in 12th grade and 68 % in graduation . How is my profile for any of the IIMs ?", "gold_label": "non-entailment"}
+{"sentence1": "What were the major effects of the cambodia earthquake , and how do these effects compare to the Andreanof Islands earthquake in 1957 ?", "sentence2": "What were the major effects of the cambodia earthquake , and how do these effects compare to the Kuril Islands earthquake in 1963 ?", "gold_label": "entailment"}
+{"sentence1": "Do you ever wake up , sometimes in the dead of night , get up for some milk and cookies or a smoke or whatever and think , hold on , this life is n't real ?", "sentence2": "Have you had a wake-up call in life ?", "gold_label": "non-entailment"}
+{"sentence1": "What do intelligent people do to pass time ?", "sentence2": "How do intelligent people spend their time ?", "gold_label": "entailment"}
+{"sentence1": "Indian live in Tokyo ?", "sentence2": "Who is the bravest man in Game of Thrones ?", "gold_label": "non-entailment"}
+{"sentence1": "What ` s the best way to get rid of porn addiction ?", "sentence2": "What is the most effective way to break a porn addiction ?", "gold_label": "entailment"}
+{"sentence1": "Which is the best car to buy within 5 lakh range ?", "sentence2": "Which is the best car in the range of 3-5 lakhs ?", "gold_label": "non-entailment"}
+{"sentence1": "How do Trump supporters justify Trump not releasing his tax returns , even though multiple sources say he has no excuse not to ?", "sentence2": "Do Donald Trump supporters actually not care about his tax returns , or do they just tolerate them and look at the bigger picture ?", "gold_label": "entailment"}
+{"sentence1": "`` How do you know if you had a '' `` bar raiser '' '' round at Amazon ? ''", "sentence2": "Should I leave an Amazon SDE-1 job for Zomato after a year ? A Zomato HR is pursuing me to go for interview round .", "gold_label": "non-entailment"}
+{"sentence1": "What are social goals ? What are some examples ?", "sentence2": "What are social goals ? What are some examples of them ?", "gold_label": "entailment"}
+{"sentence1": "There is this girl I like.I think she likes me too.I asked her if she 'll be my girlfriend and she has no problems except one.That I 've got a job in a different country . I 've got to go there.But I really want this to work . What do I do ?", "sentence2": "Why do n't we end up with our soul mates ?", "gold_label": "non-entailment"}
+{"sentence1": "Why was Cyrus Mistry removed as the chairman of Tata Sons ?", "sentence2": "Why was Cyrus Mistry removed from the chairmanship of Tata Sons ?", "gold_label": "entailment"}
+{"sentence1": "When did the first world war happen ?", "sentence2": "What were the causes of World War I ?", "gold_label": "non-entailment"}
+{"sentence1": "Does long distance relationship works ?", "sentence2": "How does long distance relationship work ?", "gold_label": "entailment"}
+{"sentence1": "How does one send an email to a university for questions ?", "sentence2": "How can I write a welcome email for a dental college ?", "gold_label": "non-entailment"}
+{"sentence1": "Can we do affiliate marketing without having a website or a company ?", "sentence2": "How do I do affiliate marketing without a website ?", "gold_label": "entailment"}
+{"sentence1": "How do I restore my self confidence ?", "sentence2": "What should I do to restore my self confidence and faith in myself ?", "gold_label": "non-entailment"}
+{"sentence1": "How could bringing in new 500 and 2000 rupee notes by the Indian govt eradicate black money ?", "sentence2": "How banning 500 and 1000 rupee can affect black money ?", "gold_label": "entailment"}
+{"sentence1": "What are the best men 's t-shirt brands ?", "sentence2": "What 's the best T-shirt brand ?", "gold_label": "non-entailment"}
+{"sentence1": "What are the best programs to make logos for starters ?", "sentence2": "What is the best program to make a logo ?", "gold_label": "entailment"}

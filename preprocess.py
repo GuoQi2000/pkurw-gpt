@@ -2,7 +2,8 @@ import time
 
 
 TEMPLATE = {"SNLI": "[x] Overall, the relationship between premise and hypothesis is [z].",
-
+            "FEVER": "[x] Overall, considering the Claim only in the context of the Evidence, the answer is [z].",
+            "QQP": "[x] Overall, the semantic relationship between the two questions is [z].",
             }
 
 class Processor():
@@ -12,16 +13,23 @@ class Processor():
     def process(self, task,input_sentence):
         if task == "SNLI":
             x = "Premise: "+input_sentence[0]+" Hypothesis: "+input_sentence[1]
+        elif task == "FEVER":
+            x = "Evidence: "+input_sentence[0]+" Claim: "+input_sentence[1]
+        elif task == "QQP":
+            x = "Question 1: "+input_sentence[0]+" Question 2: "+input_sentence[1]
         prompt = TEMPLATE[task].replace("[x]",x)
         return prompt
     
-    def run(self,task,input_pool,prompt_pool,flag):
+    def run(self, submit, request, flag):
         print('init processor')
         while flag:
-            if len(input_pool) > 0:
-                input_sentence = input_pool.pop(0)   
+            prompt_tuple = request()
+            if not (prompt_tuple is None):
+             #   print("process : ",prompt_tuple)
+                input_sentence = prompt_tuple['input_sentence']
+                user_id = prompt_tuple['user_id']
+                task = prompt_tuple['task']
                 prompt = self.process(task, input_sentence)
-                prompt_pool.append(prompt)
-            #    print("process")
+                submit({'prompt':prompt,'user_id':user_id,'task':task,'time':time.time()})
             else:
                 time.sleep(1)

@@ -1,20 +1,32 @@
 import openai
 import time
 
-SYSTEM_PROMPT = {"SNLI":"You are a expert at natrual language inference. You will be asked the relationship of a Premise and Hypothesis. You \
-         answer can be one of the three: 'neutral','etailment' and 'contradiction'."
+SYSTEM_PROMPT = {"SNLI":"You are a expert at natrual language inference. You will be asked the relationship of a Premise and Hypothesis. Your \
+         answer can be one of the three: 'neutral','etailment' and 'contradiction'.",
+         "FEVER":"You are a expert at  fact verification . You will be asked whether a Claim is valid in the context of a Evidence. Your \
+         answer can be one of the three: 'support','refute' and 'not enough information'.",
+         "QQP":"You are a expert at analyzing the semantics of questions. You will be asked whether The two questions are semantically equivalent. Your \
+         answer can be one of the two: 'equivalent' and 'not equivalent'."
                  }
 
 class GPT():
-    def __init__(self) -> None:
-        openai.api_key = "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"
+    def __init__(self,key) -> None:
+        openai.api_key = key
         self.MODEL = "gpt-3.5-turbo-0613"
 
     def verbalize(self,content,task):
         if task == "SNLI":
-            return content.split(" ")[-1][:-1]
-        else:
-            pass
+            for label in ["neutral","entailment","contradiction"]:
+                if label in content:
+                    return label
+        elif task == "FEVER":
+            for label in ["support","refute","not enough information"]:
+                if label in content:
+                    return label
+        elif task == "QQP":
+            for label in ["not equivalent","equivalent"]:
+                if label in content:
+                    return label
 
     def response(self, prompt,task):
         res = openai.ChatCompletion.create(
@@ -26,16 +38,20 @@ class GPT():
         temperature=0,
         )
         content = res['choices'][0]['message']['content']
+        print(content)
         answer = self.verbalize(content,task)
         return answer
 
-    def run(self,task,prompt_pool, result_pool,flag):
+    def run(self,submit,request,flag):
         print('init gpt')
         while flag:
-            if len(prompt_pool) > 0:
-                prompt = prompt_pool.pop(0)
+            prompt_tuple = request()
+            if not prompt_tuple is None:
+                prompt = prompt_tuple['prompt']
+                user_id = prompt_tuple['user_id']
+                task = prompt_tuple['task']
                 answer = self.response(prompt, task)
-                result_pool.append(answer)
+                submit( {'result':answer,'user_id':user_id,'task':task,'time':time.time()} )
                 print("predict: ", prompt, " ", answer)
                 time.sleep(21)
     
