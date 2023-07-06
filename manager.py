@@ -1,10 +1,12 @@
 import time
+import logging
 
 class Manager():
     def __init__(self) -> None:
         self.inputs_pool = []
         self.prompts_pool = []
         self.results_pool = []
+        self.temp_prompt_tuple = None
     
     def submit_input(self,input_tuple): # input_tuple = (input_sentence, user_id, task, time)
         t = input_tuple['time']
@@ -29,8 +31,12 @@ class Manager():
         self.prompts_pool.append(prompt_tuple)
 
     def request_prompt(self):
+        if not (self.temp_prompt_tuple is None):
+            return self.temp_prompt_tuple
         if len(self.prompts_pool) > 0:
-            return self.prompts_pool.pop(0)
+            prompt_tuple = self.prompts_pool.pop(0)
+            self.temp_prompt_tuple = prompt_tuple
+            return prompt_tuple
         else:
             return None
 
@@ -45,5 +51,6 @@ class Manager():
     def request_result(self, user_id):
         for result_tuple in self.results_pool:
             if user_id == result_tuple['user_id']:
+                self.temp_prompt_tuple = None
                 return self.results_pool.pop(0)
         return None

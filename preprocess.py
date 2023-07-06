@@ -1,5 +1,5 @@
 import time
-
+import logging
 
 TEMPLATE = {"SNLI": "[x] Overall, the relationship between premise and hypothesis is [z].",
             "FEVER": "[x] Overall, considering the Claim only in the context of the Evidence, the answer is [z].",
@@ -21,7 +21,7 @@ class Processor():
         return prompt
     
     def run(self, submit, request, flag):
-        print('init processor')
+        logging.info('init processor')
         while flag:
             prompt_tuple = request()
             if not (prompt_tuple is None):

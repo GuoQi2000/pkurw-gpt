@@ -2,5 +2,3 @@
 {"sentence1": "Is honey a viable alternative to sugar for diabetics ?", "sentence2": "How would you compare the United States ' euthanasia laws to Denmark ?", "gold_label": "non-entailment"}
 {"sentence1": "How can I stop my depression ?", "sentence2": "What can I do to stop being depressed ?", "gold_label": "entailment"}
 {"sentence1": "Why is Mia Khalifa suddenly so popular ?", "sentence2": "What are some tricks male porn stars have to last longer ?", "gold_label": "non-entailment"}
-{"sentence1": "How do you cook chicken gizzards ? What are the best recipes ?", "sentence2": "What can I do with chicken gizzards ?", "gold_label": "entailment"}
-{"sentence1": "How much money do you need to earn to live a comfortable life in INDIA ?", "sentence2": "How much money do you need to earn to live a comfortable life in Japan ?", "gold_label": "non-entailment"}

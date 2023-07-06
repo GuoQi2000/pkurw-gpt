@@ -2,6 +2,7 @@ import json
 import pandas as pd
 from torch.utils.data import  Dataset
 import time
+import logging
 
 
 DATA_ROOT = './data/'
@@ -96,6 +97,7 @@ class User():
 
     def init_data(self):
         self.data = get_dataset(self.task)
+        self.true_label = [self.data.get_label(i) for i in range(len(self.data))]
 
     def print_info(self):
         print("User : ",self.id," requests the task : ", self.task, ". Current progress is :", len(self.result_pool)," / ", len(self.data))
@@ -106,19 +108,25 @@ class User():
     def receive(self,answer):
         self.result_pool.append(answer)
 
+    def evaluate(self):
+        acc = sum([self.true_label[i]==self.result_pool[i] for i in range(len(self.data))]) / len(self.data) 
+        print('user ',self.id," finishes, acc = ",acc)
+
     def run(self, submit, request):
-        print('init user')
+        logging.info(f"init user {self.id}")
         while not self.is_end():
             if self.submit_index < len(self.data):
                 submit( {'input_sentence':self.data[self.submit_index], 'user_id':self.id,'task':self.task,'time': time.time()} )
-                print('user : ',self.id," submits")
+                logging.info(f"user {self.id} submits")
                 self.submit_index+=1
             if len(self.result_pool) < len(self.data):
                 answer = request(self.id)
                 if not (answer is None):
                     self.receive(answer['result'])
-                    print('user : ',self.id," receives")
+                    logging.info(f"user {self.id} receives")
             time.sleep(2)
+        self.evaluate()
         self.flag = False
+
 
 
