@@ -2,20 +2,31 @@ import openai
 import time
 import logging
 
+'''
+GPT API调用时的system prompt,根据每个任务单独设计.
+'''
 SYSTEM_PROMPT = {"SNLI":"You are a expert at natrual language inference. You will be asked the relationship of a Premise and Hypothesis. Your \
          answer can be one of the three: 'neutral','etailment' and 'contradiction'.",
          "FEVER":"You are a expert at  fact verification . You will be asked whether a Claim is valid in the context of a Evidence. Your \
          answer can be one of the three: 'support','refute' and 'not enough information'.",
          "QQP":"You are a expert at analyzing the semantics of questions. You will be asked whether The two questions are semantically equivalent. Your \
-         answer can be one of the two: 'equivalent' and 'not equivalent'."
+         answer can be one of the two: 'equivalent' and 'not equivalent'.",
+         "CoLA":"You are a expert at grammar. You will be asked whether a sentence has valid grammar. Your \
+         answer can be one of the two: 'correct' and 'incorrect'."
                  }
 
 class GPT():
+    '''
+    负责直接对openai API的调用
+    '''
     def __init__(self,key) -> None:
         openai.api_key = key
         self.MODEL = "gpt-3.5-turbo-0613"
 
     def verbalize(self,content,task):
+        '''
+        将gpt的结果转化成标签
+        '''
         if task == "SNLI":
             for label in ["neutral","entailment","contradiction"]:
                 if label in content:
@@ -28,11 +39,23 @@ class GPT():
             for label in ["not equivalent","equivalent"]:
                 if label in content:
                     return label
+        elif task == "CoLA":
+            for label in ["incorrect","correct"]:
+                if label in content:
+                    return label
 
     def exception_process(self,exception):
+        '''
+        简单的异常处理,打印error信息
+        返回None代表这次请求失败
+        '''
         logging.error(exception)
+        return None
 
     def response(self, prompt,task):
+        '''
+        openai 的 API调用请求,如果出现调用异常就转入异常处理
+        '''
         try:
             res = openai.ChatCompletion.create(
             model=self.MODEL,
@@ -47,43 +70,17 @@ class GPT():
             answer = self.verbalize(content,task)
             return answer
         except Exception as e:
-            self.exception_process(e)
-            return None
-        # except openai.error.RateLimitError:
-        #     print('rate limit')
-        #     print('1. Send fewer tokens or requests or slow down your usage.')
-        #     print('2. Wait until your rate limit resets (one minute) and retry your request.')
-        #     print('3. Check your API usage statistics from your account dashboard.')
-        #     return None
-        # except openai.error.ServiceUnavailableError:
-        #     print('service unavailable')
-        #     print('1. Wait a few minutes and retry your request.')
-        #     print("2. Check OpenAI's status page for any ongoing incidents or maintenance.")
-        #     return None
-        # except openai.error.APIError:
-        #     print('APIError encountered, please:')
-        #     print('1. Wait a few seconds and retry your request.')
-        #     print('2.Wait a few seconds and retry your request.')
-        #     return None
-        # except openai.error.Timeout:
-        #     print('Timeout encountered, please:')
-        #     print('1. Wait a few seconds and retry your request.')
-        #     print('2. Check your network settings and ensure you have a stable and fast internet connection.')
-        #     return None
-        # except openai.error.APIConnectionError:
-        #     print('APIConnectionError encountered, please:')
-        #     print('1. Check your proxy configuration, SSL certificates, and firewall rules.')
-        #     print('2. Check your network settings and ensure you have a stable and fast internet connection.')
-        #     return None
-        # except openai.error.AuthenticationError:
-        #     print('AuthenticationError encountered, please:')
-        #     print('1. Check your API key or token and ensure it is correct and active.')
-        #     print('2. Ensure you have followed the correct formatting.')
-        #     return None
+            return self.exception_process(e)
 
-    def run(self,submit,request,flag):
+    def run(self,submit,request,end):
+        '''
+        主程序
+        不断发生prompt请求,每次得到一个prompt并进行API调用,将结果转化为标签后返回
+        每次API调用后sleep 20s (调用上限为1分钟3次)
+        直到所有任务结束(end==True)
+        '''
         logging.info('init gpt')
-        while flag:
+        while not end:
             prompt_tuple = request()
             if not prompt_tuple is None:
                 prompt = prompt_tuple['prompt']

@@ -1,0 +1,1043 @@
+{"sentence": "The sailors rode the breeze clear of the rocks.", "gold_label": "correct"}
+{"sentence": "The weights made the rope stretch over the pulley.", "gold_label": "correct"}
+{"sentence": "The mechanical doll wriggled itself loose.", "gold_label": "correct"}
+{"sentence": "If you had eaten more, you would want less.", "gold_label": "correct"}
+{"sentence": "As you eat the most, you want the least.", "gold_label": "incorrect"}
+{"sentence": "The more you would want, the less you would eat.", "gold_label": "incorrect"}
+{"sentence": "I demand that the more John eat, the more he pays.", "gold_label": "incorrect"}
+{"sentence": "Mary listens to the Grateful Dead, she gets depressed.", "gold_label": "correct"}
+{"sentence": "The angrier Mary got, the more she looked at pictures.", "gold_label": "correct"}
+{"sentence": "The higher the stakes, the lower his expectations are.", "gold_label": "correct"}
+{"sentence": "The more Fred is obnoxious, the less attention you should pay to him.", "gold_label": "correct"}
+{"sentence": "John was lots more obnoxious than Fred.", "gold_label": "correct"}
+{"sentence": "The more people you give beer to, the more people get sick.", "gold_label": "correct"}
+{"sentence": "The more does Bill smoke, the more Susan hates him.", "gold_label": "incorrect"}
+{"sentence": "The more pictures of him that appear in the news, the more embarrassed John becomes.", "gold_label": "correct"}
+{"sentence": "Every senator seems to become more corrupt, as he talks to more lobbyists.", "gold_label": "correct"}
+{"sentence": "Who does John visit Sally because he likes?", "gold_label": "incorrect"}
+{"sentence": "Marianne did not leave.", "gold_label": "correct"}
+{"sentence": "He could not] have been working.", "gold_label": "correct"}
+{"sentence": "He can not have been working.", "gold_label": "correct"}
+{"sentence": "You will believe Bob.", "gold_label": "correct"}
+{"sentence": "John has not kissed Mary.", "gold_label": "correct"}
+{"sentence": "I said that never in my life had I seen a place like Bangor.", "gold_label": "correct"}
+{"sentence": "Mickey looked up it.", "gold_label": "incorrect"}
+{"sentence": "There tended to be a lot of discussion.", "gold_label": "correct"}
+{"sentence": "John tried to be a good boy.", "gold_label": "correct"}
+{"sentence": "John is eager.", "gold_label": "correct"}
+{"sentence": "We want John to win.", "gold_label": "correct"}
+{"sentence": "The box contained the ball from the tree.", "gold_label": "incorrect"}
+{"sentence": "The tube was escaped by gas.", "gold_label": "incorrect"}
+{"sentence": "Water bubbled up out of the kettle.", "gold_label": "correct"}
+{"sentence": "The tub leaked water.", "gold_label": "correct"}
+{"sentence": "What the water did to the bottle was fill it.", "gold_label": "incorrect"}
+{"sentence": "What the water did to the whole bottle was fill it.", "gold_label": "incorrect"}
+{"sentence": "The tank leaked the fluid free.", "gold_label": "correct"}
+{"sentence": "John lay the ball in the box.", "gold_label": "correct"}
+{"sentence": "John owns the book.", "gold_label": "correct"}
+{"sentence": "We persuaded Mary to leave and Sue to stay.", "gold_label": "correct"}
+{"sentence": "Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.", "gold_label": "correct"}
+{"sentence": "Mary beautifully plays the violin.", "gold_label": "incorrect"}
+{"sentence": "Clearly, John probably will immediately learn French perfectly.", "gold_label": "correct"}
+{"sentence": "Sue gave to Bill a book.", "gold_label": "incorrect"}
+{"sentence": "The men will all leave.", "gold_label": "correct"}
+{"sentence": "John went home.", "gold_label": "correct"}
+{"sentence": "They represented seriously to the dean Mary as a genuine linguist.", "gold_label": "incorrect"}
+{"sentence": "Us love they.", "gold_label": "incorrect"}
+{"sentence": "It is nice to go abroad.", "gold_label": "correct"}
+{"sentence": "Mary intended John to go abroad.", "gold_label": "incorrect"}
+{"sentence": "I remembered having kissed Mary.", "gold_label": "correct"}
+{"sentence": "I can't believe Fred won't, either.", "gold_label": "correct"}
+{"sentence": "John wants to read Fred's story, and I also want to.", "gold_label": "correct"}
+{"sentence": "We wanted to invite someone, but we couldn't decide who to.", "gold_label": "incorrect"}
+{"sentence": "Mary will read Fred's story, and Joe will read Holly's.", "gold_label": "correct"}
+{"sentence": "Mary claimed that eating cabbage, Holly shouldn't.", "gold_label": "correct"}
+{"sentence": "Mary came to be introduced by the bartender and I also came to be.", "gold_label": "incorrect"}
+{"sentence": "If I can, I will work on it.", "gold_label": "correct"}
+{"sentence": "Joe's neuroses bother his patrons, and Sally does too.", "gold_label": "correct"}
+{"sentence": "I know which book Jos\u00e9 didn't read for class, and which book Lilly did it for him.", "gold_label": "incorrect"}
+{"sentence": "This is the book which Bob reviewed, and this is the one which Fred won't do it.", "gold_label": "incorrect"}
+{"sentence": "I know which book Mag read, and which book Bob said that you hadn't.", "gold_label": "correct"}
+{"sentence": "I know which book Mag read, and which book Bob read my report that you hadn't.", "gold_label": "incorrect"}
+{"sentence": "I'm sure I would like him to eat fruit more than I would cookies.", "gold_label": "correct"}
+{"sentence": "Rusty talked about himself only after Mary did talk about him.", "gold_label": "correct"}
+{"sentence": "Fred talked about everything before Rusty did talk about something.", "gold_label": "correct"}
+{"sentence": "John often meets Mary.", "gold_label": "correct"}
+{"sentence": "The problem perceives easily.", "gold_label": "incorrect"}
+{"sentence": "A hundred men surrounded the fort.", "gold_label": "correct"}
+{"sentence": "We elected me.", "gold_label": "correct"}
+{"sentence": "Which report that John was incompetent did he submit?", "gold_label": "incorrect"}
+{"sentence": "Mary has always preferred lemons to limes.", "gold_label": "correct"}
+{"sentence": "He let the cats which were whining out.", "gold_label": "correct"}
+{"sentence": "What did Bill buy?", "gold_label": "correct"}
+{"sentence": "Mary saw the boy walking toward the railroad station.", "gold_label": "correct"}
+{"sentence": "A proof that the claim had been. made was giver that John had lied.", "gold_label": "incorrect"}
+{"sentence": "He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.", "gold_label": "correct"}
+{"sentence": "The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith.", "gold_label": "incorrect"}
+{"sentence": "I want that Bill left to remain a secret.", "gold_label": "incorrect"}
+{"sentence": "I know a man who Tom drives as drives.", "gold_label": "incorrect"}
+{"sentence": "Drowning cats, which is against the law, are hard to rescue.", "gold_label": "incorrect"}
+{"sentence": "Muriel said nothing else than that she had been insulted.", "gold_label": "correct"}
+{"sentence": "Himself is understood by Rutherford.", "gold_label": "incorrect"}
+{"sentence": "I feel that Arch will show up.", "gold_label": "correct"}
+{"sentence": "The proof this set is recursive is difficult.", "gold_label": "incorrect"}
+{"sentence": "The madrigals which Henry plays the lute and sings sound lousy.", "gold_label": "incorrect"}
+{"sentence": "Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.", "gold_label": "correct"}
+{"sentence": "Where did you go and who ate what?", "gold_label": "correct"}
+{"sentence": "Which boy's did we elect guardian's employer president?", "gold_label": "incorrect"}
+{"sentence": "How sane is Peter?", "gold_label": "correct"}
+{"sentence": "I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too.", "gold_label": "correct"}
+{"sentence": "I live at the place where Route 150 crosses the Hudson River and my dad lives at it too.", "gold_label": "incorrect"}
+{"sentence": "Who is she trying to make up to now?", "gold_label": "correct"}
+{"sentence": "Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam.", "gold_label": "incorrect"}
+{"sentence": "Mike talked about politics yesterday to my friends.", "gold_label": "correct"}
+{"sentence": "It was expected by the reporters that the principal would fire some teacher.", "gold_label": "correct"}
+{"sentence": "Which hat did Mike quip that she never wore?", "gold_label": "incorrect"}
+{"sentence": "Which girl did Mike quip never wore this hat?", "gold_label": "incorrect"}
+{"sentence": "We donated wire for the convicts to build cages with.", "gold_label": "correct"}
+{"sentence": "I won't have some money.", "gold_label": "incorrect"}
+{"sentence": "Do you believe the claim that somebody was looking for something?", "gold_label": "correct"}
+{"sentence": "I won't ask you to believe that he tried to force me to give her any money.", "gold_label": "correct"}
+{"sentence": "That Sam sometimes didn't sleep must have pleased somebody.", "gold_label": "correct"}
+{"sentence": "I talked to Winston about himself.", "gold_label": "correct"}
+{"sentence": "That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary.", "gold_label": "correct"}
+{"sentence": "I'll work on it if Sam will be working on it.", "gold_label": "correct"}
+{"sentence": "I'll work on it if I can.", "gold_label": "correct"}
+{"sentence": "Here's a knife with which for you to cut up the onions.", "gold_label": "incorrect"}
+{"sentence": "Fluffy is sick, which not everybody knows.", "gold_label": "correct"}
+{"sentence": "Maxwell is quite a doctor.", "gold_label": "correct"}
+{"sentence": "The younger woman might have been tall and, and the older one definitely was, blond.", "gold_label": "incorrect"}
+{"sentence": "Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.", "gold_label": "correct"}
+{"sentence": "I have to try to finish grading some papers.", "gold_label": "correct"}
+{"sentence": "The socks are ready for for you to put on to be planned.", "gold_label": "incorrect"}
+{"sentence": "It is easy to play sonatas on this violin.", "gold_label": "correct"}
+{"sentence": "This violin is difficult to play sonatas on.", "gold_label": "correct"}
+{"sentence": "My mother is easy to please my father and.", "gold_label": "incorrect"}
+{"sentence": "Poor Bill, it had started to rain and he had no umbrella.", "gold_label": "correct"}
+{"sentence": "That the cops spoke to the janitor about it yesterday is terrible, that robbery.", "gold_label": "incorrect"}
+{"sentence": "Every student, and he wears socks, is a swinger.", "gold_label": "incorrect"}
+{"sentence": "That girl was given my binoculars by him.", "gold_label": "correct"}
+{"sentence": "Bill didn't allege that Roger had eaten anything.", "gold_label": "correct"}
+{"sentence": "Nobody who hates to eat anything should work in a delicatessen.", "gold_label": "correct"}
+{"sentence": "Everybody around here who ever buys anything on credit talks in his sleep.", "gold_label": "correct"}
+{"sentence": "I can't remember the name of somebody who had misgivings.", "gold_label": "incorrect"}
+{"sentence": "No writer, and no playwright, meets in Vienna.", "gold_label": "incorrect"}
+{"sentence": "No writer, nor any playwright, meets in Vienna.", "gold_label": "incorrect"}
+{"sentence": "That you will marry any student is not certain.", "gold_label": "correct"}
+{"sentence": "Felicia kicked the ball off the bench.", "gold_label": "correct"}
+{"sentence": "I sent the package halfway around the world.", "gold_label": "correct"}
+{"sentence": "Sam gave the ball out of the basket.", "gold_label": "incorrect"}
+{"sentence": "Sam offered the ball out of the basket.", "gold_label": "incorrect"}
+{"sentence": "Park Square has a festive air.", "gold_label": "correct"}
+{"sentence": "The worker will have a job.", "gold_label": "correct"}
+{"sentence": "No one can forgive that comment to you.", "gold_label": "incorrect"}
+{"sentence": "We launched the rocket to the moon, but it blew up before it got there.", "gold_label": "correct"}
+{"sentence": "Sarah promised Catherine her old car, but then gave it to her son instead.", "gold_label": "correct"}
+{"sentence": "I lent the book partway to Tony.", "gold_label": "incorrect"}
+{"sentence": "The farmer loaded the cart with apples.", "gold_label": "correct"}
+{"sentence": "The farmer dumped the cart with apples.", "gold_label": "incorrect"}
+{"sentence": "Martha carved the baby a toy out of wood.", "gold_label": "correct"}
+{"sentence": "The bread cuts easily.", "gold_label": "correct"}
+{"sentence": "Janet broke Bill on the finger.", "gold_label": "incorrect"}
+{"sentence": "Janet broke the cup.", "gold_label": "correct"}
+{"sentence": "The visitor rang the bell.", "gold_label": "correct"}
+{"sentence": "We pulled free.", "gold_label": "correct"}
+{"sentence": "That movie always shocks people.", "gold_label": "correct"}
+{"sentence": "That movie always shocks.", "gold_label": "correct"}
+{"sentence": "Sharon came the room.", "gold_label": "incorrect"}
+{"sentence": "Bill sent a package to Tom.", "gold_label": "correct"}
+{"sentence": "That acorn will grow into an oak tree.", "gold_label": "correct"}
+{"sentence": "He turned into a frog.", "gold_label": "correct"}
+{"sentence": "I mixed the sugar into the butter.", "gold_label": "correct"}
+{"sentence": "Brian threw the fence with the stick.", "gold_label": "incorrect"}
+{"sentence": "Mira condemned Terry for the accident.", "gold_label": "correct"}
+{"sentence": "We investigated the area for bombs.", "gold_label": "correct"}
+{"sentence": "I sensed his eagerness.", "gold_label": "correct"}
+{"sentence": "They praised the dedication in the volunteers.", "gold_label": "incorrect"}
+{"sentence": "The earth was believed to be round.", "gold_label": "correct"}
+{"sentence": "Sarah smiled a charming smile.", "gold_label": "correct"}
+{"sentence": "Sandra beamed a cheerful welcome.", "gold_label": "correct"}
+{"sentence": "You've really lived it up.", "gold_label": "correct"}
+{"sentence": "Paperback books lift onto the table easily.", "gold_label": "incorrect"}
+{"sentence": "The books lifted onto the table.", "gold_label": "incorrect"}
+{"sentence": "Jessica loaded boxes under the wagon.", "gold_label": "correct"}
+{"sentence": "Jessica loaded boxes on the wagon.", "gold_label": "correct"}
+{"sentence": "Jessica crammed boxes at the truck.", "gold_label": "incorrect"}
+{"sentence": "Lora buttered at the toast.", "gold_label": "incorrect"}
+{"sentence": "Carla shoveled the walk.", "gold_label": "correct"}
+{"sentence": "Nora sent the book.", "gold_label": "correct"}
+{"sentence": "Nora sent Peter the book.", "gold_label": "correct"}
+{"sentence": "Carla slid the book.", "gold_label": "correct"}
+{"sentence": "Carla slid at the book.", "gold_label": "incorrect"}
+{"sentence": "Amanda carried the package to Pamela.", "gold_label": "correct"}
+{"sentence": "Packages drive easily to New York.", "gold_label": "incorrect"}
+{"sentence": "The chair pushed.", "gold_label": "incorrect"}
+{"sentence": "We offered a job to her.", "gold_label": "correct"}
+{"sentence": "A job offered.", "gold_label": "incorrect"}
+{"sentence": "Brown presented a plaque to Jones.", "gold_label": "correct"}
+{"sentence": "Carmen bought Mary a dress.", "gold_label": "correct"}
+{"sentence": "Carmen obtained the spare part at the hardware store.", "gold_label": "correct"}
+{"sentence": "Michelle kept the desk with the papers.", "gold_label": "incorrect"}
+{"sentence": "Frances hid the presents in the drawer.", "gold_label": "correct"}
+{"sentence": "The needle poked the cloth.", "gold_label": "correct"}
+{"sentence": "Carrie touched that cat.", "gold_label": "correct"}
+{"sentence": "Herman whipped the sugar and the cream.", "gold_label": "incorrect"}
+{"sentence": "Linda taped the picture to the wall.", "gold_label": "correct"}
+{"sentence": "Linda taped the picture onto the wall.", "gold_label": "correct"}
+{"sentence": "The child and her mother clung together.", "gold_label": "correct"}
+{"sentence": "This flyer and that flyer differ.", "gold_label": "correct"}
+{"sentence": "This flyer and that flyer differ apart.", "gold_label": "incorrect"}
+{"sentence": "The jeweller scribbled the contract with his name.", "gold_label": "incorrect"}
+{"sentence": "The gardener grew that acorn into an oak tree.", "gold_label": "correct"}
+{"sentence": "I shaped a loaf.", "gold_label": "incorrect"}
+{"sentence": "The children amused.", "gold_label": "incorrect"}
+{"sentence": "Susan whispered the news.", "gold_label": "correct"}
+{"sentence": "Susan whispered at Rachel.", "gold_label": "correct"}
+{"sentence": "Ellen said that melons were selling well.", "gold_label": "correct"}
+{"sentence": "Ellen said about the present conditions.", "gold_label": "incorrect"}
+{"sentence": "Ellen warned Helen against skating on thin ice.", "gold_label": "correct"}
+{"sentence": "Cynthia nibbled on the carrot .", "gold_label": "correct"}
+{"sentence": "Cynthia chewed.", "gold_label": "incorrect"}
+{"sentence": "Paul laughed at Mary.", "gold_label": "correct"}
+{"sentence": "Linda winked her lip.", "gold_label": "incorrect"}
+{"sentence": "My heart is pounding me.", "gold_label": "incorrect"}
+{"sentence": "Sharon fainted from hunger.", "gold_label": "correct"}
+{"sentence": "The witch poisoned the children.", "gold_label": "correct"}
+{"sentence": "A grandfather clock ticked in the hallway.", "gold_label": "correct"}
+{"sentence": "I squeaked the door.", "gold_label": "incorrect"}
+{"sentence": "Over the fire there bubbled a fragrant stew.", "gold_label": "correct"}
+{"sentence": "Soaring temperatures are predicted for this weekend.", "gold_label": "correct"}
+{"sentence": "The fort fluttered with many flags.", "gold_label": "incorrect"}
+{"sentence": "The voices echoed in the hall.", "gold_label": "correct"}
+{"sentence": "The stream twists through the valley.", "gold_label": "correct"}
+{"sentence": "There presented itself a wonderful opportunity yesterday.", "gold_label": "incorrect"}
+{"sentence": "A wonderful opportunity presented itself to him yesterday.", "gold_label": "correct"}
+{"sentence": "Out of the box jumped a little white rabbit.", "gold_label": "correct"}
+{"sentence": "Penny skated around the rink.", "gold_label": "correct"}
+{"sentence": "Jackie accompanied Rose.", "gold_label": "correct"}
+{"sentence": "many information was provided.", "gold_label": "incorrect"}
+{"sentence": "John offers many advice.", "gold_label": "incorrect"}
+{"sentence": "The cake that Jones got was more delicious than the one that Smith got.", "gold_label": "correct"}
+{"sentence": "We recommend to eat less cake and pastry.", "gold_label": "correct"}
+{"sentence": "I saw that gas can explode.", "gold_label": "correct"}
+{"sentence": "He washed her.", "gold_label": "correct"}
+{"sentence": "Wash you!", "gold_label": "incorrect"}
+{"sentence": "They have no in.", "gold_label": "incorrect"}
+{"sentence": "Some my jobs are in jeopardy.", "gold_label": "incorrect"}
+{"sentence": "It was the policeman met that several young students in the park last night.", "gold_label": "incorrect"}
+{"sentence": "did the policeman meet in the park?", "gold_label": "correct"}
+{"sentence": "John put old books in the box.", "gold_label": "correct"}
+{"sentence": "The monkeys proud of their leader.", "gold_label": "incorrect"}
+{"sentence": "John sounded very.", "gold_label": "incorrect"}
+{"sentence": "I don't know if I should agree.", "gold_label": "correct"}
+{"sentence": "John bought a book on the table.", "gold_label": "correct"}
+{"sentence": "John called the president a fool.", "gold_label": "correct"}
+{"sentence": "I forgot how good beer tastes.", "gold_label": "correct"}
+{"sentence": "This teacher is a genius.", "gold_label": "correct"}
+{"sentence": "A good friend is remained to me by him.", "gold_label": "incorrect"}
+{"sentence": "John ate his noodle quietly.", "gold_label": "correct"}
+{"sentence": "A smith hammered the metal.", "gold_label": "correct"}
+{"sentence": "Sandy removed her ballet shoes.", "gold_label": "correct"}
+{"sentence": "This week will be a difficult one for us.", "gold_label": "correct"}
+{"sentence": "Benny worked in a shoe factory when he was a student.", "gold_label": "correct"}
+{"sentence": "Everyone hoped that she would sing.", "gold_label": "correct"}
+{"sentence": "This proved a decisive factor.", "gold_label": "correct"}
+{"sentence": "The crocodile devoured the doughnut.", "gold_label": "correct"}
+{"sentence": "John is afraid of Bill.", "gold_label": "correct"}
+{"sentence": "John put under the bathtub.", "gold_label": "incorrect"}
+{"sentence": "John placed Kim behind the garage.", "gold_label": "correct"}
+{"sentence": "Kim depends for Sandy.", "gold_label": "incorrect"}
+{"sentence": "John put the book in the box.", "gold_label": "correct"}
+{"sentence": "John taught English Syntax to new students.", "gold_label": "correct"}
+{"sentence": "John regards Bill as a good friend.", "gold_label": "correct"}
+{"sentence": "Kim put in the box.", "gold_label": "incorrect"}
+{"sentence": "The chickens seem fond of the farmer.", "gold_label": "correct"}
+{"sentence": "The rules require that the executives be polite.", "gold_label": "correct"}
+{"sentence": "That Fred was unpopular nominated Bill.", "gold_label": "incorrect"}
+{"sentence": "They were taking a hard look at possible FTA.", "gold_label": "correct"}
+{"sentence": "John paid me against the book.", "gold_label": "incorrect"}
+{"sentence": "The committee will study the feasibility of setting up a national computer network.", "gold_label": "correct"}
+{"sentence": "We made them be rude.", "gold_label": "correct"}
+{"sentence": "After reading the pamphlet, Judy threw it into the garbage can.", "gold_label": "correct"}
+{"sentence": "Students studying English reads Conrad's Heart of Darkness while at university.", "gold_label": "incorrect"}
+{"sentence": "I read some of the book.", "gold_label": "correct"}
+{"sentence": "Most of the fruit is rotten.", "gold_label": "correct"}
+{"sentence": "Neither of students failed.", "gold_label": "incorrect"}
+{"sentence": "I drank some of water.", "gold_label": "incorrect"}
+{"sentence": "It is a golden hair.", "gold_label": "correct"}
+{"sentence": "The boy in the doorway waved to his father.", "gold_label": "correct"}
+{"sentence": "That dog is so ferocious, it even tried to bite itself.", "gold_label": "correct"}
+{"sentence": "He washed yourself.", "gold_label": "incorrect"}
+{"sentence": "John is easy to please Kim.", "gold_label": "incorrect"}
+{"sentence": "There seemed to be intelligent.", "gold_label": "incorrect"}
+{"sentence": "John tried to please Stephen.", "gold_label": "correct"}
+{"sentence": "We believed John to be a fountain in the park.", "gold_label": "incorrect"}
+{"sentence": "It tries to leave the country.", "gold_label": "incorrect"}
+{"sentence": "John tries to leave the country.", "gold_label": "correct"}
+{"sentence": "Under the bed seems to be a fun place to hide.", "gold_label": "correct"}
+{"sentence": "There is believed to be sheep in the park.", "gold_label": "incorrect"}
+{"sentence": "I hope to would study in France.", "gold_label": "incorrect"}
+{"sentence": "John can kick the ball.", "gold_label": "correct"}
+{"sentence": "John will rain tomorrow.", "gold_label": "incorrect"}
+{"sentence": "We expect there to will rain.", "gold_label": "incorrect"}
+{"sentence": "John was found in the office.", "gold_label": "correct"}
+{"sentence": "Did the child be in the school?", "gold_label": "incorrect"}
+{"sentence": "It did not rain.", "gold_label": "correct"}
+{"sentence": "John wants not to leave the town.", "gold_label": "correct"}
+{"sentence": "Mary likes to tour art galleries, but Bill hates to.", "gold_label": "correct"}
+{"sentence": "They needn't take this exam.", "gold_label": "correct"}
+{"sentence": "Ann may spend her vacation in Italy.", "gold_label": "correct"}
+{"sentence": "They love to play golf, but I do not.", "gold_label": "correct"}
+{"sentence": "George has spent a lot of money, hasn't he?", "gold_label": "correct"}
+{"sentence": "As a statesman, scarcely could he do anything worth mentioning.", "gold_label": "correct"}
+{"sentence": "We never found any of the unicorns.", "gold_label": "correct"}
+{"sentence": "One of Korea's most famous poets wrote these lines.", "gold_label": "correct"}
+{"sentence": "Somebody apparently struck the unidentified victim during the early morning hours.", "gold_label": "correct"}
+{"sentence": "The car was driven.", "gold_label": "correct"}
+{"sentence": "Ricky can be relied on.", "gold_label": "correct"}
+{"sentence": "The bed was slept in.", "gold_label": "correct"}
+{"sentence": "A pound was weighed by the book.", "gold_label": "incorrect"}
+{"sentence": "Who do you think Tom saw?", "gold_label": "correct"}
+{"sentence": "he had spent five thousand dollars.", "gold_label": "correct"}
+{"sentence": "Fed knows which politician her to vote for.", "gold_label": "incorrect"}
+{"sentence": "How did you guess that he fixed the computer?", "gold_label": "correct"}
+{"sentence": "The committee knows whose efforts to achieve peace the world should honor.", "gold_label": "correct"}
+{"sentence": "Which house does your friend live?", "gold_label": "incorrect"}
+{"sentence": "the baker from whom I bought these bagels left.", "gold_label": "correct"}
+{"sentence": "I found the place where we can relax.", "gold_label": "correct"}
+{"sentence": "Jack is the person with whom Jenny fell in love with.", "gold_label": "incorrect"}
+{"sentence": "There is a bench to sit on.", "gold_label": "correct"}
+{"sentence": "I met the man who grows peaches.", "gold_label": "correct"}
+{"sentence": "Which topic did you choose without getting his approval?", "gold_label": "correct"}
+{"sentence": "Which topic did you get bored because Mary talked about?", "gold_label": "incorrect"}
+{"sentence": "That is the reason why he resigned.", "gold_label": "correct"}
+{"sentence": "It bothers me that John coughs.", "gold_label": "correct"}
+{"sentence": "To please John is easy.", "gold_label": "correct"}
+{"sentence": "Kim is eager to please Tom.", "gold_label": "correct"}
+{"sentence": "That we invaded Iraq really bites.", "gold_label": "correct"}
+{"sentence": "It annoys me that Fido barks.", "gold_label": "correct"}
+{"sentence": "Who achieved the best result was Angela.", "gold_label": "incorrect"}
+{"sentence": "It was the peasant girl who got it.", "gold_label": "correct"}
+{"sentence": "That kind of person is hard to find anyone to look after.", "gold_label": "correct"}
+{"sentence": "A sick owl doesn't hunt mice.", "gold_label": "correct"}
+{"sentence": "Each candidate who has interest in semantics will be admitted to the department.", "gold_label": "correct"}
+{"sentence": "Each author whose contribution is written in any language other than English will provide a summary in English.", "gold_label": "correct"}
+{"sentence": "I'm sure we even got these tickets!", "gold_label": "correct"}
+{"sentence": "I'm even sure we got these tickets!", "gold_label": "correct"}
+{"sentence": "It's not because I have any sympathy for urban guerillas that I helped him.", "gold_label": "correct"}
+{"sentence": "It isn't because Sue said anything bad about me that I'm angry.", "gold_label": "correct"}
+{"sentence": "That he was hungry, John whined.", "gold_label": "incorrect"}
+{"sentence": "1 gave Mary after the party a book.", "gold_label": "incorrect"}
+{"sentence": "Because she's so pleasant, as for Mary I really like her.", "gold_label": "incorrect"}
+{"sentence": "Though he may hate those that criticize Carter, it doesn't matter.", "gold_label": "correct"}
+{"sentence": "With no job would John be happy.", "gold_label": "correct"}
+{"sentence": "I have much of the manuscript left to type.", "gold_label": "correct"}
+{"sentence": "He's a more reliable man.", "gold_label": "correct"}
+{"sentence": "Any trouble is what I don't want.", "gold_label": "incorrect"}
+{"sentence": "They may grow as high as bamboo.", "gold_label": "correct"}
+{"sentence": "Some of them made as many errors as 20.", "gold_label": "correct"}
+{"sentence": "Sally kissed himself.", "gold_label": "incorrect"}
+{"sentence": "Drew believes I think Rosie loves magazine ads.", "gold_label": "correct"}
+{"sentence": "Dave, Dan, Erin, Jaime, and Alina left.", "gold_label": "correct"}
+{"sentence": "Hopefully, we'll make it through the winter without snow.", "gold_label": "correct"}
+{"sentence": "Blue leather shows herself that Betsy is pretty.", "gold_label": "incorrect"}
+{"sentence": "Gwen hit the baseball.", "gold_label": "correct"}
+{"sentence": "I hit that you knew the answer.", "gold_label": "incorrect"}
+{"sentence": "I've lost my wallet or I've lost my mind.", "gold_label": "correct"}
+{"sentence": "It was a brand new car that he bought.", "gold_label": "correct"}
+{"sentence": "He likes cookies and he hates crumb cake.", "gold_label": "correct"}
+{"sentence": "They chased the man with the car.", "gold_label": "correct"}
+{"sentence": "I didn't have a red cent.", "gold_label": "correct"}
+{"sentence": "the book of poems and from Blackwell takes a very long time to read.", "gold_label": "incorrect"}
+{"sentence": "the one with a red cover takes a very long time to read.", "gold_label": "correct"}
+{"sentence": "John has a fear of dogs.", "gold_label": "correct"}
+{"sentence": "The building's the roof is leaking.", "gold_label": "incorrect"}
+{"sentence": "the panther's the coat is dark black.", "gold_label": "incorrect"}
+{"sentence": "Colin asked if they could get a mortgage.", "gold_label": "correct"}
+{"sentence": "The man I saw get into the cab robbed the bank.", "gold_label": "correct"}
+{"sentence": "I know you eat asparagus.", "gold_label": "correct"}
+{"sentence": "John's drum will always bother me.", "gold_label": "correct"}
+{"sentence": "An evil thought struck Dave.", "gold_label": "correct"}
+{"sentence": "In the classroom John put the book on the table.", "gold_label": "correct"}
+{"sentence": "Phillip gave the medal to the soldier.", "gold_label": "correct"}
+{"sentence": "Heidi thinks that Andy to eat salmon flavored candy bars.", "gold_label": "incorrect"}
+{"sentence": "Heidi thinks that Andy should eat salmon flavored candy bars.", "gold_label": "correct"}
+{"sentence": "He danced.", "gold_label": "correct"}
+{"sentence": "Did Calvin his homework?", "gold_label": "incorrect"}
+{"sentence": "Sylvia was slapping Jeff upside the head in martial arts class.", "gold_label": "correct"}
+{"sentence": "If I am a rich man, I'd buy a diamond ring.", "gold_label": "incorrect"}
+{"sentence": "If he were a rich man, he'd buy a diamond ring.", "gold_label": "correct"}
+{"sentence": "John is likely to leave.", "gold_label": "correct"}
+{"sentence": "The manager laughed.", "gold_label": "correct"}
+{"sentence": "Was sunk.", "gold_label": "incorrect"}
+{"sentence": "Who did you think kissed the gorilla?", "gold_label": "correct"}
+{"sentence": "Have you seen my model airplane collection?", "gold_label": "correct"}
+{"sentence": "It seems that Lucy was mugged.", "gold_label": "correct"}
+{"sentence": "I ate a salad that was filled with lima beans.", "gold_label": "correct"}
+{"sentence": "There were four men arriving at the station when I pulled up.", "gold_label": "correct"}
+{"sentence": "Jean is reluctant to dance.", "gold_label": "correct"}
+{"sentence": "I want her to dance.", "gold_label": "correct"}
+{"sentence": "Jean persuaded Robert.", "gold_label": "correct"}
+{"sentence": "Jean wants Bill to do the Macarena.", "gold_label": "correct"}
+{"sentence": "The children admire their mother.", "gold_label": "correct"}
+{"sentence": "Who has Peter talked with?", "gold_label": "correct"}
+{"sentence": "Heidi likes her violin.", "gold_label": "correct"}
+{"sentence": "John thinks that Mary loves himself.", "gold_label": "incorrect"}
+{"sentence": "Which pictures of himself does John like?", "gold_label": "correct"}
+{"sentence": "Any owl hunts mice.", "gold_label": "correct"}
+{"sentence": "Any man didn't eat dinner.", "gold_label": "incorrect"}
+{"sentence": "A pilot could be flying this plane.", "gold_label": "correct"}
+{"sentence": "Everybody who attended last week's huge rally, whoever they were, signed the petition.", "gold_label": "correct"}
+{"sentence": "Anybody who attended last week's huge rally signed the petition.", "gold_label": "correct"}
+{"sentence": "Any tiger has orange fur, marked with black stripes.", "gold_label": "correct"}
+{"sentence": "Any albino tiger has orange fur, marked with black stripes.", "gold_label": "correct"}
+{"sentence": "You must pick any flower you see.", "gold_label": "correct"}
+{"sentence": "Any pilot on duty today could be flying this plane.", "gold_label": "correct"}
+{"sentence": "You may pick every flower, but leave a few for Mary.", "gold_label": "incorrect"}
+{"sentence": "The Dodgers beat the Red Sox and were beaten by the Giants.", "gold_label": "correct"}
+{"sentence": "In which car was the man seen?", "gold_label": "correct"}
+{"sentence": "The man who Mary loves and Sally hates computed my tax.", "gold_label": "correct"}
+{"sentence": "The kennel which Mary made and Fido sleeps has been stolen.", "gold_label": "incorrect"}
+{"sentence": "Tom said he would and Bill actually did eat a raw eggplant.", "gold_label": "correct"}
+{"sentence": "The wealthy young man bought that piano for his secret fianc\u00e9e.", "gold_label": "correct"}
+{"sentence": "The dog stole the turkey.", "gold_label": "correct"}
+{"sentence": "a tall building.", "gold_label": "correct"}
+{"sentence": "This building is tall.", "gold_label": "correct"}
+{"sentence": "I like the book which you gave me.", "gold_label": "correct"}
+{"sentence": "Captain Wentworth wrote a letter to Anne Elliott.", "gold_label": "correct"}
+{"sentence": "She asked was Alison coming to the party.", "gold_label": "correct"}
+{"sentence": "They realised that never had Sir Thomas been so offended.", "gold_label": "correct"}
+{"sentence": "Fanny regretted having to talk to Aunt Norris.", "gold_label": "correct"}
+{"sentence": "Knowing the country well, he took a short cut.", "gold_label": "correct"}
+{"sentence": "He left the train with somebody else's wallet in his pocket.", "gold_label": "correct"}
+{"sentence": "Magnus went to Ireland.", "gold_label": "correct"}
+{"sentence": "Who did John send the book?", "gold_label": "correct"}
+{"sentence": "The idea dismayed the Prime Minister that the Dome was dull.", "gold_label": "correct"}
+{"sentence": "Came right in he did without so much as a knock.", "gold_label": "correct"}
+{"sentence": "Harriet admired Mr Knightley.", "gold_label": "correct"}
+{"sentence": "The book is boring.", "gold_label": "correct"}
+{"sentence": "Ethel wishes to ask you some awkward questions.", "gold_label": "correct"}
+{"sentence": "Emma made Harriet some food.", "gold_label": "correct"}
+{"sentence": "The window was broken with a hammer.", "gold_label": "correct"}
+{"sentence": "The fugitive lay motionless in order to avoid discovery.", "gold_label": "correct"}
+{"sentence": "The guard marched the prisoners round the yard.", "gold_label": "correct"}
+{"sentence": "Frank Churchill crossed the street.", "gold_label": "correct"}
+{"sentence": "Emma and Harriet were attacked yesterday.", "gold_label": "correct"}
+{"sentence": "Fiona might be here by 5 o'clock.", "gold_label": "correct"}
+{"sentence": "I am both expecting to get the job and of the opinion that it is a desirable one.", "gold_label": "correct"}
+{"sentence": "Pat was awarded the Golden Fleece Award and very upset about it.", "gold_label": "correct"}
+{"sentence": "Kim alienated cats and beating his dog.", "gold_label": "incorrect"}
+{"sentence": "They knew that pictures of each other would be on sale.", "gold_label": "correct"}
+{"sentence": "Which article did Terry file papers without reading?", "gold_label": "incorrect"}
+{"sentence": "I want to try and buy some whiskey.", "gold_label": "correct"}
+{"sentence": "She goes and buying some whiskey.", "gold_label": "incorrect"}
+{"sentence": "Kim and Terry is happy.", "gold_label": "incorrect"}
+{"sentence": "Kim gave a dollar to Bobbie and a dime to Jean.", "gold_label": "correct"}
+{"sentence": "This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.", "gold_label": "correct"}
+{"sentence": "Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.", "gold_label": "incorrect"}
+{"sentence": "Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.", "gold_label": "incorrect"}
+{"sentence": "Ann bought a first edition of Richard III for $1000.", "gold_label": "correct"}
+{"sentence": "John became deadly afraid of flying.", "gold_label": "correct"}
+{"sentence": "What John promised is to be gentle.", "gold_label": "correct"}
+{"sentence": "Henri wants to buy which books about cooking?", "gold_label": "correct"}
+{"sentence": "I will fix the computer for Carol.", "gold_label": "correct"}
+{"sentence": "Smith loaned a valuable collection of manuscripts to the library.", "gold_label": "correct"}
+{"sentence": "The paper is cut by Mary.", "gold_label": "correct"}
+{"sentence": "It was from six to nine or it took place from six to nine.", "gold_label": "correct"}
+{"sentence": "Suddenly, there arrived two inspectors from the INS.", "gold_label": "correct"}
+{"sentence": "The soup cooks, thickens.", "gold_label": "correct"}
+{"sentence": "I gave money to the charity.", "gold_label": "correct"}
+{"sentence": "John asked.", "gold_label": "correct"}
+{"sentence": "I saw even the student.", "gold_label": "correct"}
+{"sentence": "John whispered Mary left.", "gold_label": "incorrect"}
+{"sentence": "Mary wonders that Bill will come.", "gold_label": "incorrect"}
+{"sentence": "Sophie will theater.", "gold_label": "incorrect"}
+{"sentence": "John finished the cake and drank the lemonade.", "gold_label": "correct"}
+{"sentence": "Herself likes Mary's mother.", "gold_label": "incorrect"}
+{"sentence": "Each of the boys fought with some of the other boys.", "gold_label": "correct"}
+{"sentence": "John's mother likes himself.", "gold_label": "incorrect"}
+{"sentence": "Mary revealed himself to John.", "gold_label": "incorrect"}
+{"sentence": "Mary believes that Bill saw himself.", "gold_label": "correct"}
+{"sentence": "John heard that they criticized themselves.", "gold_label": "incorrect"}
+{"sentence": "Mary thinks that she is smart.", "gold_label": "correct"}
+{"sentence": "Henry found that Bill is sad.", "gold_label": "correct"}
+{"sentence": "John considers himself proud of Mary.", "gold_label": "correct"}
+{"sentence": "You should sit before there.", "gold_label": "incorrect"}
+{"sentence": "There is a nurse available.", "gold_label": "correct"}
+{"sentence": "Everyone hopes everyone to sleep.", "gold_label": "incorrect"}
+{"sentence": "Everyone hopes that he will sleep.", "gold_label": "correct"}
+{"sentence": "Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.", "gold_label": "incorrect"}
+{"sentence": "John promise Mary to shave himself.", "gold_label": "correct"}
+{"sentence": "John convinced Bill that Mary should sleep.", "gold_label": "correct"}
+{"sentence": "I saw Bill while you did so Mary.", "gold_label": "incorrect"}
+{"sentence": "What Mary did Bill was give a book.", "gold_label": "incorrect"}
+{"sentence": "The bears sniffed", "gold_label": "correct"}
+{"sentence": "to steal talismans from witches is dangerous", "gold_label": "correct"}
+{"sentence": "Anson demonized", "gold_label": "incorrect"}
+{"sentence": "You kicked yourselves", "gold_label": "correct"}
+{"sentence": "The book that I said that I'd never read.", "gold_label": "correct"}
+{"sentence": "Anson demonized up the Khyber", "gold_label": "incorrect"}
+{"sentence": "It is not true that I might be going to the party.", "gold_label": "correct"}
+{"sentence": "Kick you!", "gold_label": "incorrect"}
+{"sentence": "Jason persuaded the doctor to treat Medea", "gold_label": "correct"}
+{"sentence": "Who did you get an accurate description of?", "gold_label": "correct"}
+{"sentence": "The Peter we all like was at the party", "gold_label": "correct"}
+{"sentence": "The government's imposition of a fine.", "gold_label": "correct"}
+{"sentence": "Did Athena help us?", "gold_label": "correct"}
+{"sentence": "You wanted to meet the man I saw.", "gold_label": "correct"}
+{"sentence": "Anson demonized David every day", "gold_label": "correct"}
+{"sentence": "There is a programme about Euripides on a Radio 4 tonight?", "gold_label": "correct"}
+{"sentence": "Medea denied poisoning the phoenix.", "gold_label": "correct"}
+{"sentence": "The elixir was hidden in a hole in the ground", "gold_label": "correct"}
+{"sentence": "Extremely frantically, Anson danced at Trade", "gold_label": "correct"}
+{"sentence": "What did you ask who Medea gave?", "gold_label": "incorrect"}
+{"sentence": "It's Anson that I like", "gold_label": "correct"}
+{"sentence": "Medea tried the nurse to poison her children.", "gold_label": "incorrect"}
+{"sentence": "I felt that I know you.", "gold_label": "correct"}
+{"sentence": "Will he can do it?", "gold_label": "correct"}
+{"sentence": "I ate that she was happy", "gold_label": "incorrect"}
+{"sentence": "Anson believed himself to be handsome.", "gold_label": "correct"}
+{"sentence": "We arrived about six o'clock", "gold_label": "correct"}
+{"sentence": "Gilgamesh is having fought the dragon.", "gold_label": "incorrect"}
+{"sentence": "Anson thought that himself was happy.", "gold_label": "incorrect"}
+{"sentence": "Fortunately Hermione passed biology", "gold_label": "correct"}
+{"sentence": "I might be not going to the party but washing my hair", "gold_label": "correct"}
+{"sentence": "I thought he liked myself", "gold_label": "incorrect"}
+{"sentence": "The butler sent the poison to Dinah.", "gold_label": "correct"}
+{"sentence": "Jason happens to appear to seem to be sick.", "gold_label": "correct"}
+{"sentence": "What did you ask who saw?", "gold_label": "incorrect"}
+{"sentence": "We linguists love to argue", "gold_label": "correct"}
+{"sentence": "He can will go", "gold_label": "incorrect"}
+{"sentence": "How fierce the battle?", "gold_label": "incorrect"}
+{"sentence": "Which king did you ask which city invaded?", "gold_label": "incorrect"}
+{"sentence": "It is some disgruntled old pigs in those ditches that humans love to eat.", "gold_label": "correct"}
+{"sentence": "That banana is eating the monkey.", "gold_label": "correct"}
+{"sentence": "Burn them!", "gold_label": "correct"}
+{"sentence": "It stinks that Aphrodite is omnipotent.", "gold_label": "correct"}
+{"sentence": "Agamemnon seems to be a maniac", "gold_label": "correct"}
+{"sentence": "Will Anson come to the party?", "gold_label": "correct"}
+{"sentence": "I wondered who Medea had poisoned.", "gold_label": "correct"}
+{"sentence": "I inquired when could we leave.", "gold_label": "incorrect"}
+{"sentence": "They kicked them", "gold_label": "correct"}
+{"sentence": "The monkey is ate the banana", "gold_label": "incorrect"}
+{"sentence": "I would like to could swim", "gold_label": "correct"}
+{"sentence": "I kicked myself", "gold_label": "correct"}
+{"sentence": "The bookcase ran", "gold_label": "incorrect"}
+{"sentence": "I shaved myself.", "gold_label": "correct"}
+{"sentence": "Anson became a muscle bound.", "gold_label": "correct"}
+{"sentence": "Somebody just left - guess who.", "gold_label": "correct"}
+{"sentence": "They claimed they had settled on something, but it wasn't clear what they had settled on.", "gold_label": "correct"}
+{"sentence": "If Sam was going, Sally would know where.", "gold_label": "correct"}
+{"sentence": "They're going to serve the guests something, but it's unclear what.", "gold_label": "correct"}
+{"sentence": "She's reading. I can't imagine what.", "gold_label": "correct"}
+{"sentence": "John said Joan saw someone from her graduating class.", "gold_label": "correct"}
+{"sentence": "John ate dinner but I don't know who.", "gold_label": "incorrect"}
+{"sentence": "She mailed John a letter, but I don't know to whom.", "gold_label": "incorrect"}
+{"sentence": "I served leek soup to my guests.", "gold_label": "correct"}
+{"sentence": "I served my guests.", "gold_label": "correct"}
+{"sentence": "She was bathing, but I couldn't make out who.", "gold_label": "incorrect"}
+{"sentence": "She knew French for Tom.", "gold_label": "incorrect"}
+{"sentence": "John is tall on several occasions.", "gold_label": "incorrect"}
+{"sentence": "The ship sank, but I don't know with what.", "gold_label": "incorrect"}
+{"sentence": "They noticed the painting, but I don't know for how long.", "gold_label": "incorrect"}
+{"sentence": "John was tall, but I don't know on what occasions.", "gold_label": "incorrect"}
+{"sentence": "Joan ate dinner with someone but I don't know who.", "gold_label": "correct"}
+{"sentence": "Joan ate dinner with someone but I don't know who with.", "gold_label": "correct"}
+{"sentence": "I know that Meg's attracted to Harry, but they don't know who.", "gold_label": "incorrect"}
+{"sentence": "Since Jill said Joe had invited Sue, we didn't have to ask who.", "gold_label": "incorrect"}
+{"sentence": "I know that Meg's attracted to Harry, but they don't know who.", "gold_label": "correct"}
+{"sentence": "She said she had spoken to everybody, but he wasn't sure who.", "gold_label": "incorrect"}
+{"sentence": "Each of the performers came in, but were sitting so far back that we couldn't see who.", "gold_label": "incorrect"}
+{"sentence": "She didn't talk to one student.", "gold_label": "correct"}
+{"sentence": "She doesn't meet anyone for dinner, but they can't figure out who.", "gold_label": "incorrect"}
+{"sentence": "Everyone relies on someone. It's unclear who.", "gold_label": "correct"}
+{"sentence": "Each student wrote a paper on a Mayan language, but I don't remember which one.", "gold_label": "correct"}
+{"sentence": "The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.", "gold_label": "correct"}
+{"sentence": "The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint.", "gold_label": "correct"}
+{"sentence": "Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.", "gold_label": "correct"}
+{"sentence": "Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.", "gold_label": "correct"}
+{"sentence": "Bill wondered how many papers Sandy had read, but he didn't care which ones.", "gold_label": "correct"}
+{"sentence": "I never know which papers Sandy has read, but I usually know how many.", "gold_label": "correct"}
+{"sentence": "Sandy had read how many papers?!", "gold_label": "correct"}
+{"sentence": "Everybody gets on well with a certain relative, but often only his therapist knows which one.", "gold_label": "correct"}
+{"sentence": "Which book did each author recommend?", "gold_label": "correct"}
+{"sentence": "His or her least known work.", "gold_label": "correct"}
+{"sentence": "They were going to meet sometime on Sunday, but the faculty didn't know when.", "gold_label": "correct"}
+{"sentence": "John likes some students, but I don't know who.", "gold_label": "correct"}
+{"sentence": "I don't know who John likes.", "gold_label": "correct"}
+{"sentence": "John likes some students, but I don't know who John likes some students.", "gold_label": "incorrect"}
+{"sentence": "Joan said she talked to the students, but Fred couldn't figure out who.", "gold_label": "incorrect"}
+{"sentence": "He announced he had eaten the asparagus, but we didn't know what.", "gold_label": "incorrect"}
+{"sentence": "She was reading the books under the table, but Fred didn't know what books.", "gold_label": "correct"}
+{"sentence": "He announced he would marry the woman he loved most, but none of his relatives could figure out who.", "gold_label": "correct"}
+{"sentence": "She talked to John or Mary but I don't know which.", "gold_label": "correct"}
+{"sentence": "She talked to John or Mary but I don't know which one.", "gold_label": "correct"}
+{"sentence": "She talked to Harry, but I don't know who else.", "gold_label": "correct"}
+{"sentence": "I will see them, but I don't know how many of them.", "gold_label": "correct"}
+{"sentence": "Everyone who knows either Susan or Laura likes her.", "gold_label": "correct"}
+{"sentence": "She said she talked to three students but I don't know how many.", "gold_label": "incorrect"}
+{"sentence": "She said she talked to those students but I don't know how many.", "gold_label": "incorrect"}
+{"sentence": "He shouted again, but I don't know who to.", "gold_label": "correct"}
+{"sentence": "She was dancing with somebody, but I don't know who with.", "gold_label": "correct"}
+{"sentence": "Several firefighters were injured, but it's not known.", "gold_label": "correct"}
+{"sentence": "Meg is attracted to Harry, but they don't know who she is attracted to.", "gold_label": "correct"}
+{"sentence": "Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.", "gold_label": "correct"}
+{"sentence": "Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.", "gold_label": "incorrect"}
+{"sentence": "John and someone were dancing together, but I don't know who.", "gold_label": "incorrect"}
+{"sentence": "The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.", "gold_label": "correct"}
+{"sentence": "It has been determined that somebody will be appointed; it's just not clear yet who.", "gold_label": "incorrect"}
+{"sentence": "Sally asked if somebody was going to fail math class, but I can't remember who.", "gold_label": "incorrect"}
+{"sentence": "The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.", "gold_label": "incorrect"}
+{"sentence": "Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us which.", "gold_label": "correct"}
+{"sentence": "Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way.", "gold_label": "correct"}
+{"sentence": "Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which.", "gold_label": "correct"}
+{"sentence": "Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what.", "gold_label": "correct"}
+{"sentence": "In which way is Sandy very anxious to see if the students will be able to solve the homework problem?", "gold_label": "incorrect"}
+{"sentence": "In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?", "gold_label": "incorrect"}
+{"sentence": "I know how many assignments I've graded, but I don't know how many Bill has.", "gold_label": "correct"}
+{"sentence": "What did you leave before they did?", "gold_label": "incorrect"}
+{"sentence": "What did you leave before they started playing?", "gold_label": "incorrect"}
+{"sentence": "Sandy was trying to work out which students would be able to solve a certain problem.", "gold_label": "correct"}
+{"sentence": "The administration has issued a statement that it is willing to meet with one of the student groups.", "gold_label": "correct"}
+{"sentence": "Sandy was trying to work out which students would be able to solve a problem.", "gold_label": "correct"}
+{"sentence": "The administration has issued a statement that it is willing to meet a student group.", "gold_label": "correct"}
+{"sentence": "The administration has issued a statement that it is willing to meet a student group, but I'm not sure which one.", "gold_label": "correct"}
+{"sentence": "I think Agnes said that Bill would speak, but I don't remember what about.", "gold_label": "correct"}
+{"sentence": "Agnes wondered how John could eat but it's not clear what.", "gold_label": "incorrect"}
+{"sentence": "Tony sent Mo a picture that he painted, but it's not clear with what.", "gold_label": "incorrect"}
+{"sentence": "She's been dancing but we don't know with whom.", "gold_label": "correct"}
+{"sentence": "Who did they see someone?", "gold_label": "incorrect"}
+{"sentence": "It was believed by everybody that Mary was a thief.", "gold_label": "correct"}
+{"sentence": "That professor is feared by all students.", "gold_label": "correct"}
+{"sentence": "Mary was respected by John.", "gold_label": "correct"}
+{"sentence": "Ted was bitten by the spider.", "gold_label": "correct"}
+{"sentence": "The book was by John written.", "gold_label": "incorrect"}
+{"sentence": "The argument was summed by the coach up.", "gold_label": "incorrect"}
+{"sentence": "The paper was written up by John.", "gold_label": "correct"}
+{"sentence": "The paper was written by John up.", "gold_label": "incorrect"}
+{"sentence": "John was spoken to by Mary.", "gold_label": "correct"}
+{"sentence": "John was spoken by Mary to.", "gold_label": "incorrect"}
+{"sentence": "The book was seen by Mary.", "gold_label": "correct"}
+{"sentence": "John was seen the book.", "gold_label": "incorrect"}
+{"sentence": "The book was written.", "gold_label": "correct"}
+{"sentence": "John was spoke by Mary to.", "gold_label": "incorrect"}
+{"sentence": "The table was wiped clean by John.", "gold_label": "correct"}
+{"sentence": "The table was wiped by John clean.", "gold_label": "incorrect"}
+{"sentence": "Mary was given by John the book.", "gold_label": "incorrect"}
+{"sentence": "John was believed to be telling the truth by Mary.", "gold_label": "correct"}
+{"sentence": "John was believed by Mary to be telling the truth.", "gold_label": "correct"}
+{"sentence": "The car was driven by John to Maine.", "gold_label": "correct"}
+{"sentence": "It was believed by the students that they would have an exam.", "gold_label": "correct"}
+{"sentence": "The magazines were sent to herself by Mary.", "gold_label": "incorrect"}
+{"sentence": "Chocolate eggs were hidden from each other by the children.", "gold_label": "incorrect"}
+{"sentence": "The magazines were sent by Mary to herself.", "gold_label": "correct"}
+{"sentence": "Chocolate eggs were hidden from no child by any adult.", "gold_label": "correct"}
+{"sentence": "Tabs were kept on each agent by the other.", "gold_label": "correct"}
+{"sentence": "Chocolate eggs were hidden from every child by his mother.", "gold_label": "correct"}
+{"sentence": "Books were taken from no student and given to Mary.", "gold_label": "correct"}
+{"sentence": "Books were taken from no student and given to Mary by any professor.", "gold_label": "incorrect"}
+{"sentence": "Books were taken from each student by the other.", "gold_label": "correct"}
+{"sentence": "Books were taken from each student and given to Mary.", "gold_label": "correct"}
+{"sentence": "Books were taken from each student and given to Mary by the other.", "gold_label": "incorrect"}
+{"sentence": "Jack hates Sue and is loved by Mary.", "gold_label": "correct"}
+{"sentence": "Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.", "gold_label": "correct"}
+{"sentence": "Either Sam plays the bassoon or Jekyll the oboe.", "gold_label": "correct"}
+{"sentence": "Sam doesn't play bassoon, nor Medusa oboe.", "gold_label": "correct"}
+{"sentence": "Bill ate the peaches, but Harry the grapes.", "gold_label": "incorrect"}
+{"sentence": "I no more could have stolen that steak than Jack the diamonds.", "gold_label": "correct"}
+{"sentence": "Bill ate more peaches than Harry did grapes.", "gold_label": "correct"}
+{"sentence": "Bill ate the peaches and Harry did the grapes.", "gold_label": "incorrect"}
+{"sentence": "Tom will smoke the grass, and Reuben has the hash.", "gold_label": "incorrect"}
+{"sentence": "If the ants were called elephants and elephants ants, I'd be able to squash an elephant.", "gold_label": "correct"}
+{"sentence": "Simon quickly dropped the gold, and Jack the diamonds.", "gold_label": "correct"}
+{"sentence": "Bob tried to wash himself, and Mary to read the funnies.", "gold_label": "correct"}
+{"sentence": "Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation.", "gold_label": "correct"}
+{"sentence": "Harry told Sue that Albania is a lovely place for a vacation, and Tom.", "gold_label": "correct"}
+{"sentence": "Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.", "gold_label": "correct"}
+{"sentence": "Max seemed to be trying to force Ted to leave the room, and Walt, Ira.", "gold_label": "correct"}
+{"sentence": "Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer.", "gold_label": "incorrect"}
+{"sentence": "Arizona elected Goldwater Senator, and Massachusetts, McCormack.", "gold_label": "incorrect"}
+{"sentence": "Millie will send the President an obscene telegram, and Paul, the Secretary a rude letter.", "gold_label": "incorrect"}
+{"sentence": "Maytag will give a brand-new dryer to the winner of the Mrs.", "gold_label": "incorrect"}
+{"sentence": "Bill didn't eat the peaches, nor Harry.", "gold_label": "incorrect"}
+{"sentence": "Bill ate the peaches, and Harry did, too.", "gold_label": "correct"}
+{"sentence": "Bill must quickly eat the peaches, and Harry must slowly.", "gold_label": "incorrect"}
+{"sentence": "Whenever Russia has made a major political blunder, the U.S. has too.", "gold_label": "correct"}
+{"sentence": "Bill's story about Sue and Max's about Kathy both amazed me.", "gold_label": "correct"}
+{"sentence": "I bought three quarts of wine and two of Clorox.", "gold_label": "correct"}
+{"sentence": "Scientists at the South Hanoi Institute of Technology have succeeded in raising one dog with five legs, another with a cow's liver, and a third with no head.", "gold_label": "correct"}
+{"sentence": "Bill's story about Sue may be amazing, but Max's is virtually incredible.", "gold_label": "correct"}
+{"sentence": "I like Bill's yellow shirt, but not Max's.", "gold_label": "correct"}
+{"sentence": "Bill's funny story about Sue and Max's boring one about Kathy both amazed me.", "gold_label": "correct"}
+{"sentence": "Bill's wine from France and Ted's from California cannot be compared.", "gold_label": "correct"}
+{"sentence": "As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy.", "gold_label": "incorrect"}
+{"sentence": "Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo.", "gold_label": "correct"}
+{"sentence": "Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord.", "gold_label": "incorrect"}
+{"sentence": "Tom's dog with one eye attacked Frank's with three legs.", "gold_label": "incorrect"}
+{"sentence": "Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.", "gold_label": "incorrect"}
+{"sentence": "Neither von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's has the right tempo.", "gold_label": "correct"}
+{"sentence": "Tom's dog with one eye attacked Fred's.", "gold_label": "correct"}
+{"sentence": "I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.", "gold_label": "correct"}
+{"sentence": "Jerry attempted to blow up the Pentagon.", "gold_label": "correct"}
+{"sentence": "So fast did he run that nobody could catch him.", "gold_label": "correct"}
+{"sentence": "Bill bought a red house, and Max bought one too.", "gold_label": "correct"}
+{"sentence": "Who always drinks milk?", "gold_label": "correct"}
+{"sentence": "The book which inspired them was very long.", "gold_label": "correct"}
+{"sentence": "The book what inspired them was very long.", "gold_label": "incorrect"}
+{"sentence": "I know the person whose mother died.", "gold_label": "correct"}
+{"sentence": "The person whose mother's dog we were all fond of.", "gold_label": "correct"}
+{"sentence": "I wonder whose mother died.", "gold_label": "correct"}
+{"sentence": "I wonder whose mother's dog died.", "gold_label": "correct"}
+{"sentence": "I wonder to whom they dedicated the building.", "gold_label": "correct"}
+{"sentence": "Give me the phone number of the person whose mother's dog died.", "gold_label": "correct"}
+{"sentence": "This is the senator to whose mother's friend's sister's I sent the letter.", "gold_label": "correct"}
+{"sentence": "I want goes to the store.", "gold_label": "incorrect"}
+{"sentence": "I wonder what to be a clown on the cover of.", "gold_label": "incorrect"}
+{"sentence": "Bother you that Kim left!", "gold_label": "incorrect"}
+{"sentence": "A student who to talk to us just walked in.", "gold_label": "incorrect"}
+{"sentence": "Whose bagels do you like?", "gold_label": "correct"}
+{"sentence": "I wonder in whom to place my trust.", "gold_label": "correct"}
+{"sentence": "There were several old rocks songs that she and I were the only two who knew.", "gold_label": "correct"}
+{"sentence": "It was to to amuse us that Kim was singing that they wanted.", "gold_label": "incorrect"}
+{"sentence": "What they feared most was to be no one available to help them.", "gold_label": "incorrect"}
+{"sentence": "We tried to amuse them that Kim was singing.", "gold_label": "incorrect"}
+{"sentence": "Mary asked me if, in St. Louis, John could rent a house cheap.", "gold_label": "correct"}
+{"sentence": "Mary arranged for, in St. Louis, John to rent a house cheap.", "gold_label": "incorrect"}
+{"sentence": "It would be unwise for there to be no fire exit.", "gold_label": "correct"}
+{"sentence": "I believe there to be no way out.", "gold_label": "correct"}
+{"sentence": "I wonder in whom them to place their trust.", "gold_label": "incorrect"}
+{"sentence": "I wonder whom us to trust.", "gold_label": "incorrect"}
+{"sentence": "I wonder who for us to trust.", "gold_label": "incorrect"}
+{"sentence": "I wonder who to place my trust in.", "gold_label": "correct"}
+{"sentence": "I know the people that voted in the election.", "gold_label": "correct"}
+{"sentence": "I threw away a book that Sandy thought we had read.", "gold_label": "correct"}
+{"sentence": "I thought that you were sick.", "gold_label": "correct"}
+{"sentence": "I dislike the people in who we placed our trust.", "gold_label": "incorrect"}
+{"sentence": "I dislike the company in which we placed our trust.", "gold_label": "correct"}
+{"sentence": "I dislike the people in whose house we stayed.", "gold_label": "correct"}
+{"sentence": "I dislike the person with whom we were talking.", "gold_label": "correct"}
+{"sentence": "Jones, that we were talking to last night, always watches football games alone.", "gold_label": "incorrect"}
+{"sentence": "A letter was received that Jones would be upset by.", "gold_label": "correct"}
+{"sentence": "A letter was received Jones would be upset by.", "gold_label": "incorrect"}
+{"sentence": "I saw someone yesterday I hadn't seen for years.", "gold_label": "correct"}
+{"sentence": "Something happened I couldn't really talk about.", "gold_label": "correct"}
+{"sentence": "The only person that I like whose kids Dana is willing to put up with is Pat.", "gold_label": "correct"}
+{"sentence": "The book that I like which everyone else in the class hates was written by John.", "gold_label": "correct"}
+{"sentence": "The only person whose kids Dana is willing to put up with was written by John.", "gold_label": "incorrect"}
+{"sentence": "The book that I like - everyone else in the class hates.", "gold_label": "incorrect"}
+{"sentence": "The only person whose kids Dana is willing to put up with is Pat.", "gold_label": "correct"}
+{"sentence": "Which book's, author did you meet?", "gold_label": "correct"}
+{"sentence": "Which boy's, mother, did you meet who you liked?", "gold_label": "incorrect"}
+{"sentence": "Which book's, author did you meet who you liked?", "gold_label": "incorrect"}
+{"sentence": "Which boy's, mother, did you meet?", "gold_label": "correct"}
+{"sentence": "All who lost money in the scam are eligible for the program.", "gold_label": "correct"}
+{"sentence": "Who for Sandy to talk to is still enrolled in the class?", "gold_label": "incorrect"}
+{"sentence": "Who who you like does Sandy also like?", "gold_label": "correct"}
+{"sentence": "Everything you like is on the table.", "gold_label": "correct"}
+{"sentence": "The bills passed by the House yesterday that we objected to were vetoed.", "gold_label": "correct"}
+{"sentence": "The only people being added to our group who were at Harvard were students.", "gold_label": "correct"}
+{"sentence": "We like ourselves.", "gold_label": "correct"}
+{"sentence": "Nobody likes us.", "gold_label": "correct"}
+{"sentence": "Leslie likes ourselves.", "gold_label": "incorrect"}
+{"sentence": "Ourselves like ourselves.", "gold_label": "incorrect"}
+{"sentence": "She voted for herself.", "gold_label": "correct"}
+{"sentence": "We gave us presents.", "gold_label": "incorrect"}
+{"sentence": "We gave ourselves presents.", "gold_label": "correct"}
+{"sentence": "We gave presents to ourselves.", "gold_label": "correct"}
+{"sentence": "We gave us to the cause.", "gold_label": "incorrect"}
+{"sentence": "We gave ourselves to the cause.", "gold_label": "correct"}
+{"sentence": "Leslie told us about us.", "gold_label": "incorrect"}
+{"sentence": "Leslie told ourselves about us.", "gold_label": "incorrect"}
+{"sentence": "We think that Leslie likes us.", "gold_label": "correct"}
+{"sentence": "We think that Leslie likes ourselves.", "gold_label": "incorrect"}
+{"sentence": "Our friends like us.", "gold_label": "correct"}
+{"sentence": "Those pictures of us offended us.", "gold_label": "correct"}
+{"sentence": "We found your letter to ourselves in the trash.", "gold_label": "incorrect"}
+{"sentence": "Vote for you!", "gold_label": "incorrect"}
+{"sentence": "Vote for yourself!", "gold_label": "correct"}
+{"sentence": "We appeared to them to vote for themselves.", "gold_label": "incorrect"}
+{"sentence": "We admired the pictures of us in the album.", "gold_label": "correct"}
+{"sentence": "We admired the pictures of ourselves in the album.", "gold_label": "correct"}
+{"sentence": "Leslie used a pen.", "gold_label": "correct"}
+{"sentence": "We put the pigs in a pen.", "gold_label": "correct"}
+{"sentence": "We need to pen the pigs to keep them from getting into the corn.", "gold_label": "correct"}
+{"sentence": "They should pen the letter quickly.", "gold_label": "correct"}
+{"sentence": "The car won't run.", "gold_label": "correct"}
+{"sentence": "This dye will run.", "gold_label": "correct"}
+{"sentence": "She can run an accelerator.", "gold_label": "correct"}
+{"sentence": "These stockings will run.", "gold_label": "correct"}
+{"sentence": "We need another run to win.", "gold_label": "correct"}
+{"sentence": "Lee saw the student with a telescope.", "gold_label": "correct"}
+{"sentence": "I forgot how good beer tastes.", "gold_label": "correct"}
+{"sentence": "Visiting relatives can be boring.", "gold_label": "correct"}
+{"sentence": "If only Superman would stop flying planes!", "gold_label": "correct"}
+{"sentence": "That's a new car dealership.", "gold_label": "correct"}
+{"sentence": "I know you like the back of my hand.", "gold_label": "correct"}
+{"sentence": "Max is on the phone now.", "gold_label": "correct"}
+{"sentence": "I saw her duck.", "gold_label": "correct"}
+{"sentence": "I'm creating a committee. Kim \u2013 you're in charge.", "gold_label": "correct"}
+{"sentence": "Lights go out at ten. There will be no talking afterwards.", "gold_label": "correct"}
+{"sentence": "They found the book on the atom.", "gold_label": "correct"}
+{"sentence": "Which experts testified against defendants who exposed them?", "gold_label": "correct"}
+{"sentence": "List all experts for the defendant who represented himself.", "gold_label": "correct"}
+{"sentence": "List associates of each defendant who speaks Spanish.", "gold_label": "correct"}
+{"sentence": "They lost themselves' books.", "gold_label": "incorrect"}
+{"sentence": "Some sentences go on and on and on.", "gold_label": "correct"}
+{"sentence": "Sentences some go on and on and on and on.", "gold_label": "incorrect"}
+{"sentence": "That surprised me.", "gold_label": "correct"}
+{"sentence": "I noticed the.", "gold_label": "incorrect"}
+{"sentence": "They were interested in his.", "gold_label": "correct"}
+{"sentence": "This is my favorite.", "gold_label": "correct"}
+{"sentence": "A large dog chased a small cat.", "gold_label": "correct"}
+{"sentence": "Some people yell at noisy dogs in my neighborhood.", "gold_label": "correct"}
+{"sentence": "Some people yell at the dogs in my neighborhood.", "gold_label": "correct"}
+{"sentence": "Some people yell at the dogs.", "gold_label": "correct"}
+{"sentence": "Some people yell at noisy dogs.", "gold_label": "correct"}
+{"sentence": "Some people yell at dogs.", "gold_label": "correct"}
+{"sentence": "Some people consider the noisy dogs dangerous.", "gold_label": "correct"}
+{"sentence": "Some people consider the dogs in my neighborhood dangerous.", "gold_label": "correct"}
+{"sentence": "Some people consider noisy dogs in my neighborhood dangerous.", "gold_label": "correct"}
+{"sentence": "Some people consider the dogs dangerous.", "gold_label": "correct"}
+{"sentence": "Some people consider noisy dogs dangerous.", "gold_label": "correct"}
+{"sentence": "Some people consider dogs in my neighborhood dangerous.", "gold_label": "correct"}
+{"sentence": "Some people consider dogs dangerous.", "gold_label": "correct"}
+{"sentence": "People with children who use drugs should be locked up.", "gold_label": "correct"}
+{"sentence": "This disease gave Leslie a fever in Rome.", "gold_label": "correct"}
+{"sentence": "The love of my life and mother of my children would never do such a thing.", "gold_label": "correct"}
+{"sentence": "Most elections are quickly forgotten, but the election of 2000, everyone will remember for a long time.", "gold_label": "correct"}
+{"sentence": "It is painting by Klee or drawing by Miro that the museum displays no.", "gold_label": "incorrect"}
+{"sentence": "The defendant denied the accusation.", "gold_label": "correct"}
+{"sentence": "The teacher disappeared the problem.", "gold_label": "incorrect"}
+{"sentence": "The teacher handed the student.", "gold_label": "incorrect"}
+{"sentence": "The bird sings.", "gold_label": "correct"}
+{"sentence": "The bird sing.", "gold_label": "incorrect"}
+{"sentence": "Birds sings.", "gold_label": "incorrect"}
+{"sentence": "The birds give the worm a tug.", "gold_label": "correct"}
+{"sentence": "The bird give the worm a tug.", "gold_label": "incorrect"}
+{"sentence": "The birds gives the worm a tug.", "gold_label": "incorrect"}
+{"sentence": "Terry delighted in my pain.", "gold_label": "correct"}
+{"sentence": "Terry delighted.", "gold_label": "incorrect"}
+{"sentence": "Terry delighted my pain.", "gold_label": "incorrect"}
+{"sentence": "Kerry remarked it was late.", "gold_label": "correct"}
+{"sentence": "What additional categories and rules would be required to handle these verbs?", "gold_label": "correct"}
+{"sentence": "We created a monster.", "gold_label": "correct"}
+{"sentence": "I was already aware of fact.", "gold_label": "incorrect"}
+{"sentence": "The defendant deny the allegation.", "gold_label": "incorrect"}
+{"sentence": "The defendants denies the allegation.", "gold_label": "incorrect"}
+{"sentence": "The defendant walks.", "gold_label": "correct"}
+{"sentence": "The defendant walk.", "gold_label": "incorrect"}
+{"sentence": "The defendants walks.", "gold_label": "incorrect"}
+{"sentence": "How many feature structures categories can label the first daughter?", "gold_label": "correct"}
+{"sentence": "The child put the toy on the table.", "gold_label": "correct"}
+{"sentence": "The teacher became angry with the students.", "gold_label": "correct"}
+{"sentence": "The teacher became.", "gold_label": "incorrect"}
+{"sentence": "The jury believed the defendant lied.", "gold_label": "correct"}
+{"sentence": "The guests dined.", "gold_label": "correct"}
+{"sentence": "We relied on Leslie.", "gold_label": "correct"}
+{"sentence": "We relied above Leslie.", "gold_label": "incorrect"}
+{"sentence": "We celebrated in the streets.", "gold_label": "correct"}
+{"sentence": "We celebrated in the streets in the rain on Tuesday in the morning.", "gold_label": "correct"}
+{"sentence": "The children are happy of ice cream.", "gold_label": "incorrect"}
+{"sentence": "The children are fond with the ice cream.", "gold_label": "incorrect"}
+{"sentence": "The children are fond that they have ice cream.", "gold_label": "incorrect"}
+{"sentence": "A magazine appeared on the newsstands.", "gold_label": "correct"}
+{"sentence": "A magazine about crime appeared on the newsstands.", "gold_label": "correct"}
+{"sentence": "Newsweek appeared on the newsstands.", "gold_label": "correct"}
+{"sentence": "Newsweek about crime appeared on the newsstands.", "gold_label": "incorrect"}
+{"sentence": "The report that crime was declining surprised many people.", "gold_label": "correct"}
+{"sentence": "The book surprised many people.", "gold_label": "correct"}
+{"sentence": "The book that crime was declining surprised many people.", "gold_label": "incorrect"}
+{"sentence": "The storm arrived after the picnic.", "gold_label": "correct"}
+{"sentence": "The storm arrived while the picnic.", "gold_label": "incorrect"}
+{"sentence": "The storm arrived while we ate lunch.", "gold_label": "correct"}
+{"sentence": "This dogs barked.", "gold_label": "incorrect"}
+{"sentence": "These dogs barked.", "gold_label": "correct"}
+{"sentence": "A chair was broken.", "gold_label": "correct"}
+{"sentence": "They want them arrested.", "gold_label": "correct"}
+{"sentence": "They preferred them arrested.", "gold_label": "correct"}
+{"sentence": "We preferred them on our team.", "gold_label": "correct"}
+{"sentence": "With my parents as supportive as they are, I'll be in fine shape.", "gold_label": "correct"}
+{"sentence": "We walks.", "gold_label": "incorrect"}
+{"sentence": "Few dog barked.", "gold_label": "incorrect"}
+{"sentence": "The dogs barked.", "gold_label": "correct"}
+{"sentence": "I walk and Dana runs.", "gold_label": "correct"}
+{"sentence": "They like us.", "gold_label": "correct"}
+{"sentence": "Us like them.", "gold_label": "incorrect"}
+{"sentence": "Kim likes dogs.", "gold_label": "correct"}
+{"sentence": "Dogs like Kim.", "gold_label": "correct"}
+{"sentence": "The person responsible confessed.", "gold_label": "correct"}
+{"sentence": "The person confessed responsible.", "gold_label": "incorrect"}
+{"sentence": "The cat slept soundly and furry.", "gold_label": "incorrect"}
+{"sentence": "The soundly and furry cat slept.", "gold_label": "incorrect"}
+{"sentence": "Chris walks, Pat eats broccoli, and Sandy plays squash.", "gold_label": "correct"}
+{"sentence": "There was some particular dog who saved every family.", "gold_label": "correct"}
+{"sentence": "Susan frightens her.", "gold_label": "correct"}
+{"sentence": "Susan told her a story.", "gold_label": "correct"}
+{"sentence": "Susan told a story to her.", "gold_label": "correct"}
+{"sentence": "Susan devoted herself to linguistics.", "gold_label": "correct"}
+{"sentence": "Nobody told Susan about herself.", "gold_label": "correct"}
+{"sentence": "That picture of Susan offended her.", "gold_label": "correct"}
+{"sentence": "He offended Sandy.", "gold_label": "correct"}
+{"sentence": "I enjoy yourself.", "gold_label": "incorrect"}
+{"sentence": "They talk to themselves.", "gold_label": "correct"}
+{"sentence": "Nobody told Susan.", "gold_label": "correct"}
+{"sentence": "Protect yourself!", "gold_label": "correct"}
+{"sentence": "Protect you!", "gold_label": "incorrect"}
+{"sentence": "I met the person who left.", "gold_label": "correct"}
+{"sentence": "Leslie slept.", "gold_label": "correct"}
+{"sentence": "Chris handed Bo.", "gold_label": "incorrect"}
+{"sentence": "Dana walked and Leslie ran.", "gold_label": "correct"}
+{"sentence": "Dana walking and Leslie ran.", "gold_label": "incorrect"}
+{"sentence": "Dana walking and Leslie running.", "gold_label": "incorrect"}
+{"sentence": "the putter of books left.", "gold_label": "incorrect"}
+{"sentence": "Kris donated a book to the library.", "gold_label": "correct"}
+{"sentence": "The police sprayed the protesters with water.", "gold_label": "correct"}
+{"sentence": "The police sprayed water on the protesters.", "gold_label": "correct"}
+{"sentence": "The students drove cars.", "gold_label": "correct"}
+{"sentence": "These cars drive easily.", "gold_label": "correct"}
+{"sentence": "The horse kicked me black and blue.", "gold_label": "correct"}
+{"sentence": "They yelled.", "gold_label": "correct"}
+{"sentence": "The horse raced past the barn fell.", "gold_label": "correct"}
+{"sentence": "The horse that was raced past the barn fell.", "gold_label": "correct"}
+{"sentence": "The boat seen down the river sank.", "gold_label": "correct"}
+{"sentence": "The evidence assembled by the prosecution convinced the jury.", "gold_label": "correct"}
+{"sentence": "Lou forgot the umbrella.", "gold_label": "correct"}
+{"sentence": "Lou forgot the umbrella in the closet.", "gold_label": "correct"}
+{"sentence": "Lou hoped the umbrella was broken.", "gold_label": "correct"}
+{"sentence": "Lou hoped the umbrella in the closet.", "gold_label": "incorrect"}
+{"sentence": "Lou put the umbrella was broken.", "gold_label": "incorrect"}
+{"sentence": "Lou put the umbrella in the closet.", "gold_label": "correct"}
+{"sentence": "The artist drew the child with a pencil.", "gold_label": "correct"}
+{"sentence": "The dog bit the cat.", "gold_label": "correct"}
+{"sentence": "The cat was bitten the mouse.", "gold_label": "incorrect"}
+{"sentence": "The cat was bitten the mouse by the dog.", "gold_label": "incorrect"}
+{"sentence": "Chris was handed Sandy a note by Pat.", "gold_label": "incorrect"}
+{"sentence": "Chris was handed a note.", "gold_label": "correct"}
+{"sentence": "Chris was handed Sandy a note.", "gold_label": "incorrect"}
+{"sentence": "TV puts dumb ideas in children's heads.", "gold_label": "correct"}
+{"sentence": "Dumb ideas are put in children's heads by TV.", "gold_label": "correct"}
+{"sentence": "Dumb ideas are put in children's heads.", "gold_label": "correct"}
+{"sentence": "Dumb ideas are put notions in children's heads by TV.", "gold_label": "incorrect"}
+{"sentence": "The patient died.", "gold_label": "correct"}
+{"sentence": "The patient was died.", "gold_label": "incorrect"}
+{"sentence": "Chris was handed.", "gold_label": "incorrect"}
+{"sentence": "TV puts dumb ideas.", "gold_label": "incorrect"}
+{"sentence": "He was arrested by the police.", "gold_label": "correct"}
+{"sentence": "The cat got bitten.", "gold_label": "correct"}
+{"sentence": "The cat were bitten by the dog.", "gold_label": "incorrect"}
+{"sentence": "There is a monster in Loch Ness.", "gold_label": "correct"}
+{"sentence": "It is obvious that Pat is lying.", "gold_label": "correct"}
+{"sentence": "Pat is the captain of the team.", "gold_label": "correct"}
+{"sentence": "Pat is hate Chris.", "gold_label": "incorrect"}
+{"sentence": "There is a unicorn in the garden.", "gold_label": "correct"}
+{"sentence": "There was a felon elected to the city council.", "gold_label": "correct"}
+{"sentence": "There is a seat available.", "gold_label": "correct"}
+{"sentence": "A seat available was in the last row.", "gold_label": "incorrect"}
+{"sentence": "Many people were fond of Pat.", "gold_label": "correct"}
+{"sentence": "People are looking through the window.", "gold_label": "correct"}
+{"sentence": "A felon was elected to the city council.", "gold_label": "correct"}
+{"sentence": "There loved Sandy.", "gold_label": "incorrect"}
+{"sentence": "We talked to them about there.", "gold_label": "incorrect"}
+{"sentence": "It mattered that the Giants had lost.", "gold_label": "correct"}
+{"sentence": "That dogs bark annoys people.", "gold_label": "correct"}
+{"sentence": "It annoys people that dogs bark.", "gold_label": "correct"}
+{"sentence": "That Chris knew the answer occurred to Pat.", "gold_label": "correct"}
+{"sentence": "It never occurred to Pat that Chris knew the answer.", "gold_label": "correct"}
+{"sentence": "That the Cardinal won the game gave Sandy a thrill.", "gold_label": "correct"}
+{"sentence": "It gave Sandy a thrill that the Cardinal won the game.", "gold_label": "correct"}
+{"sentence": "That Sandy had lied suggested.", "gold_label": "incorrect"}
+{"sentence": "It loved Sandy.", "gold_label": "incorrect"}
+{"sentence": "Cohen proved the independence of the continuum hypothesis.", "gold_label": "correct"}
+{"sentence": "Cohen proved that the continuum hypothesis was independent.", "gold_label": "correct"}
+{"sentence": "We forgot our invitations.", "gold_label": "correct"}
+{"sentence": "Nobody saw Pat.", "gold_label": "correct"}
+{"sentence": "That Fido barks annoys me.", "gold_label": "correct"}
+{"sentence": "Fido barks.", "gold_label": "correct"}
+{"sentence": "Chris dreads the bucket.", "gold_label": "correct"}
+{"sentence": "The candidates bring advantage to the voters.", "gold_label": "correct"}
+{"sentence": "Tabs are kept on suspected drug dealers by the FBI.", "gold_label": "correct"}
+{"sentence": "Advantage is taken of every opportunity for improvement.", "gold_label": "correct"}
+{"sentence": "The bucket was kicked by Pat.", "gold_label": "correct"}
+{"sentence": "John is sad.", "gold_label": "correct"}
+{"sentence": "John loaded the wagon full with hay.", "gold_label": "correct"}
+{"sentence": "John loaded the wagon with hay green.", "gold_label": "incorrect"}
+{"sentence": "I presented John with it dead.", "gold_label": "incorrect"}
+{"sentence": "Of whom are you thinking?", "gold_label": "correct"}
+{"sentence": "John became rich.", "gold_label": "correct"}
+{"sentence": "I gave John gold apples.", "gold_label": "correct"}
+{"sentence": "how silly is Bill considered?", "gold_label": "correct"}
+{"sentence": "how mad was Bill made?", "gold_label": "correct"}
+{"sentence": "John is sick.", "gold_label": "correct"}
+{"sentence": "John left singing.", "gold_label": "correct"}
+{"sentence": "John is near Larry.", "gold_label": "correct"}
+{"sentence": "John gave Bill the dog dead.", "gold_label": "correct"}
+{"sentence": "Bill was struck by John as stupid.", "gold_label": "incorrect"}
+{"sentence": "John was struck as sick.", "gold_label": "incorrect"}
+{"sentence": "John was struck by Bill's idiocy.", "gold_label": "correct"}
+{"sentence": "John promised Bill to leave.", "gold_label": "correct"}
+{"sentence": "John tried to leave.", "gold_label": "correct"}
+{"sentence": "To leave would be a pleasure.", "gold_label": "correct"}
+{"sentence": "John was struck by Bill as pompous.", "gold_label": "incorrect"}
+{"sentence": "John was promised by Bill to leave.", "gold_label": "incorrect"}
+{"sentence": "They make good cooks.", "gold_label": "correct"}
+{"sentence": "there is nothing to do.", "gold_label": "correct"}
+{"sentence": "John has something for Bill to do.", "gold_label": "correct"}
+{"sentence": "I am counting on Bill to incriminate himself.", "gold_label": "correct"}
+{"sentence": "On whom are you counting to incriminate himself?", "gold_label": "correct"}
+{"sentence": "I am counting on Bill to get there on time.", "gold_label": "correct"}
+{"sentence": "I would prefer to leave.", "gold_label": "correct"}
+{"sentence": "I would hate for John to leave.", "gold_label": "correct"}
+{"sentence": "I would prefer for John to leave.", "gold_label": "correct"}
+{"sentence": "It was hated for John to leave.", "gold_label": "incorrect"}
+{"sentence": "John decided for Bill to get the prize.", "gold_label": "incorrect"}
+{"sentence": "John decided Bill to get the prize.", "gold_label": "incorrect"}
+{"sentence": "to die is no fun.", "gold_label": "correct"}
+{"sentence": "John wants to leave.", "gold_label": "correct"}
+{"sentence": "John counted on Bill to get there on time.", "gold_label": "correct"}
+{"sentence": "I bought Bill a book to read.", "gold_label": "correct"}
+{"sentence": "John told Mary that it would be important to leave early.", "gold_label": "correct"}
+{"sentence": "John told Mary that it was important to Fred to leave early.", "gold_label": "correct"}
+{"sentence": "John, told Mary that it would be appropriate to leave together.", "gold_label": "correct"}
+{"sentence": "the election of John president surprised me.", "gold_label": "incorrect"}
+{"sentence": "John's arriving dead surprised me.", "gold_label": "correct"}
+{"sentence": "the attempt by John to leave surprised me.", "gold_label": "correct"}
+{"sentence": "John left orders to follow Pete.", "gold_label": "correct"}
+{"sentence": "John left us orders to follow Pete.", "gold_label": "correct"}
+{"sentence": "John left orders not to be disturbed.", "gold_label": "correct"}
+{"sentence": "That he is here is clear.", "gold_label": "correct"}
+{"sentence": "It is a problem that he is here.", "gold_label": "correct"}
+{"sentence": "It bothers me that he is here.", "gold_label": "correct"}
+{"sentence": "John regretted it that Bill had a good time.", "gold_label": "correct"}
+{"sentence": "John believes it that Bill is here.", "gold_label": "incorrect"}
+{"sentence": "John believes it sincerely that Bill is here.", "gold_label": "incorrect"}
+{"sentence": "John is aware of it that Bill is here.", "gold_label": "incorrect"}
+{"sentence": "John felt it that Bill was tardy.", "gold_label": "incorrect"}
+{"sentence": "John believed it that Bill was tardy.", "gold_label": "incorrect"}
+{"sentence": "It was believed that Bill was tardy.", "gold_label": "correct"}
+{"sentence": "That John is reluctant seems.", "gold_label": "incorrect"}
+{"sentence": "It is the problem that he is here.", "gold_label": "incorrect"}
+{"sentence": "That he is here is the problem.", "gold_label": "correct"}
+{"sentence": "The problem we are discussing is George.", "gold_label": "correct"}
+{"sentence": "It is to give up to leave.", "gold_label": "incorrect"}
+{"sentence": "It would prove our theory to be untenable for carrots to be vegetables.", "gold_label": "correct"}
+{"sentence": "It was believed to be illegal by them to do that.", "gold_label": "incorrect"}
+{"sentence": "John grudgingly accepted judgments of his incompetence as an auto mechanic.", "gold_label": "correct"}
+{"sentence": "It was to John that I gave the book.", "gold_label": "correct"}
+{"sentence": "I bought it to read.", "gold_label": "correct"}
+{"sentence": "I bought it to give to Pete.", "gold_label": "correct"}
+{"sentence": "I gave it to Pete to take to the fair.", "gold_label": "correct"}
+{"sentence": "I gave Pete the book to impress.", "gold_label": "incorrect"}
+{"sentence": "I wrote to Bill.", "gold_label": "correct"}
+{"sentence": "I presented it to Bill to read.", "gold_label": "correct"}
+{"sentence": "I presented Bill with it to read.", "gold_label": "incorrect"}
+{"sentence": "I gave a book to Bill to read.", "gold_label": "correct"}
+{"sentence": "John thinks it would upset himself to die.", "gold_label": "correct"}
+{"sentence": "John made Bill mad at himself.", "gold_label": "correct"}
+{"sentence": "John made Bill master of himself.", "gold_label": "correct"}
+{"sentence": "The correspondence school made Bill a good typist.", "gold_label": "correct"}
+{"sentence": "The correspondence school sent Bill a good typist.", "gold_label": "correct"}
+{"sentence": "John considers Bill silly.", "gold_label": "correct"}
+{"sentence": "John considers Bill to be silly.", "gold_label": "correct"}
+{"sentence": "John bought a dog for himself to play with.", "gold_label": "incorrect"}
+{"sentence": "John arranged for himself to get the prize.", "gold_label": "correct"}
+{"sentence": "John talked to Bill about himself.", "gold_label": "correct"}

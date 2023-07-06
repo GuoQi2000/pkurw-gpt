@@ -1,0 +1,4 @@
+{"sentence": "The sailors rode the breeze clear of the rocks.", "gold_label": "correct"}
+{"sentence": "The weights made the rope stretch over the pulley.", "gold_label": "correct"}
+{"sentence": "As you eat the most, you want the least.", "gold_label": "incorrect"}
+{"sentence": "The more you would want, the less you would eat.", "gold_label": "incorrect"}

@@ -1,34 +1,43 @@
-2023-07-06 20:01:59,670 - root - INFO - init user 1-run
-2023-07-06 20:01:59,670 - root - INFO - user 1 submits-run
-2023-07-06 20:01:59,670 - root - INFO - init user 2-run
-2023-07-06 20:01:59,670 - root - INFO - user 2 submits-run
-2023-07-06 20:01:59,670 - root - INFO - init user 3-run
-2023-07-06 20:01:59,670 - root - INFO - user 3 submits-run
-2023-07-06 20:01:59,672 - root - INFO - init processor-run
-2023-07-06 20:01:59,672 - root - INFO - init gpt-run
-2023-07-06 20:02:01,680 - root - INFO - user 1 submits-run
-2023-07-06 20:02:01,680 - root - INFO - user 3 submits-run
-2023-07-06 20:02:01,680 - root - INFO - user 2 submits-run
-2023-07-06 20:02:03,687 - root - INFO - user 2 submits-run
-2023-07-06 20:02:03,687 - root - INFO - user 1 submits-run
-2023-07-06 20:02:03,687 - root - INFO - user 3 submits-run
-2023-07-06 20:02:05,696 - root - INFO - user 3 submits-run
-2023-07-06 20:02:32,296 - root - ERROR - The server is overloaded or not ready yet.-exception_process
-2023-07-06 20:02:35,833 - root - INFO - user 1 receives-run
-2023-07-06 20:02:55,906 - root - INFO - user 2 receives-run
-2023-07-06 20:03:18,001 - root - INFO - user 3 receives-run
-2023-07-06 20:04:09,015 - root - ERROR - The server is overloaded or not ready yet.-exception_process
-2023-07-06 20:04:40,591 - root - ERROR - The server is overloaded or not ready yet.-exception_process
-2023-07-06 20:05:12,009 - root - ERROR - The server is overloaded or not ready yet.-exception_process
-2023-07-06 20:05:16,501 - root - INFO - user 1 receives-run
-2023-07-06 20:06:14,961 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
-2023-07-06 20:07:15,758 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
-2023-07-06 20:07:19,013 - root - INFO - user 3 receives-run
-2023-07-06 20:07:41,080 - root - INFO - user 2 receives-run
-2023-07-06 20:08:39,152 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
-2023-07-06 20:08:41,364 - root - INFO - user 2 receives-run
-2023-07-06 20:09:05,429 - root - INFO - user 1 receives-run
-2023-07-06 20:10:03,841 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
-2023-07-06 20:10:07,748 - root - INFO - user 3 receives-run
-2023-07-06 20:10:58,721 - root - ERROR - The server is overloaded or not ready yet.-exception_process
-2023-07-06 20:10:59,936 - root - INFO - user 3 receives-run
+2023-07-06 21:41:08,569 - root - INFO - init user 1-run
+2023-07-06 21:41:08,569 - root - INFO - user 1 submits-run
+2023-07-06 21:41:08,569 - root - INFO - init user 2-run
+2023-07-06 21:41:08,569 - root - INFO - user 2 submits-run
+2023-07-06 21:41:08,569 - root - INFO - init user 3-run
+2023-07-06 21:41:08,569 - root - INFO - user 3 submits-run
+2023-07-06 21:41:08,571 - root - INFO - init user 4-run
+2023-07-06 21:41:08,571 - root - INFO - user 4 submits-run
+2023-07-06 21:41:08,571 - root - INFO - init processor-run
+2023-07-06 21:41:08,571 - root - INFO - init gpt-run
+2023-07-06 21:41:10,580 - root - INFO - user 2 submits-run
+2023-07-06 21:41:10,580 - root - INFO - user 4 submits-run
+2023-07-06 21:41:10,580 - root - INFO - user 1 submits-run
+2023-07-06 21:41:10,580 - root - INFO - user 3 submits-run
+2023-07-06 21:41:12,595 - root - INFO - user 1 submits-run
+2023-07-06 21:41:12,595 - root - INFO - user 2 submits-run
+2023-07-06 21:41:12,595 - root - INFO - user 3 submits-run
+2023-07-06 21:41:12,595 - root - INFO - user 4 submits-run
+2023-07-06 21:41:14,602 - root - INFO - user 3 submits-run
+2023-07-06 21:41:14,602 - root - INFO - user 4 submits-run
+2023-07-06 21:42:10,376 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:42:14,876 - root - INFO - user 1 receives-run
+2023-07-06 21:42:34,964 - root - INFO - user 2 receives-run
+2023-07-06 21:43:41,075 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:43:45,224 - root - INFO - user 3 receives-run
+2023-07-06 21:44:44,524 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:45:19,561 - root - INFO - user 4 receives-run
+2023-07-06 21:45:41,641 - root - INFO - user 2 receives-run
+2023-07-06 21:46:03,740 - root - INFO - user 4 receives-run
+2023-07-06 21:46:54,461 - root - ERROR - The server is overloaded or not ready yet.-exception_process
+2023-07-06 21:46:57,957 - root - INFO - user 1 receives-run
+2023-07-06 21:47:47,439 - root - ERROR - The server is overloaded or not ready yet.-exception_process
+2023-07-06 21:47:50,162 - root - INFO - user 3 receives-run
+2023-07-06 21:48:49,140 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:49:00,467 - root - INFO - user 1 receives-run
+2023-07-06 21:49:30,581 - root - INFO - user 2 receives-run
+2023-07-06 21:49:50,669 - root - INFO - user 3 receives-run
+2023-07-06 21:50:16,751 - root - INFO - user 4 receives-run
+2023-07-06 21:51:15,065 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:51:21,048 - root - INFO - user 3 receives-run
+2023-07-06 21:51:59,323 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:53:03,812 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response'))': /v1/chat/completions-urlopen
+2023-07-06 21:53:09,484 - root - INFO - user 4 receives-run
