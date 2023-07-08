@@ -152,7 +152,26 @@ class User():
         对分类结果进行测试
         '''
         acc = sum([self.true_label[i]==self.result_pool[i] for i in range(len(self.data))]) / len(self.data) 
-        print('user ',self.id," finishes, acc = ",acc)
+        print('user ',self.id,"task ",self.task," finishes, acc = ",acc)
+        if self.task == 'QQP' or self.task == 'CoLA':
+            if self.task == 'QQP':
+                positive_label = 'equivalent'
+            else:
+                positive_label = 'correct'
+            TP = 0
+            FP = 0
+            FN = 0
+            for i in range(len(self.true_label)):
+                if self.true_label[i] == self.result_pool[i] and self.true_label == positive_label:
+                    TP += 1
+                if self.true_label == positive_label and (not self.result_pool[i] == positive_label):
+                    FN += 1
+                if (not self.true_label == positive_label) and self.result_pool[i] == positive_label:
+                    FP += 1
+            precision = TP/(TP+FP)
+            recall = TP/(TP+FN)
+            f1_score = 1 / (1/(precision+1e-5) + 1/(recall+1e-5))
+            print('user ',self.id,"task ",self.task," f1_score = ",f1_score)
 
     def run(self, submit, request):
         '''
@@ -161,11 +180,11 @@ class User():
         每隔一段时间发送一次结果请求,得到处理结果
         直到任务结束,对最终结果进行评估
         '''
-        logging.info(f"init user {self.id}")
+        logging.info(f"init user {self.id} task = {self.task}")
         while not self.end:
             if self.submit_index < len(self.data):
                 submit( {'input_sentence':self.data[self.submit_index], 'user_id':self.id,'task':self.task,'time': time.time()} )
-                logging.info(f"user {self.id} submits")
+                logging.info(f"user {self.id} submits {self.data[self.submit_index]}")
                 self.submit_index+=1
             if len(self.result_pool) < len(self.data):
                 answer = request(self.id)
@@ -174,7 +193,6 @@ class User():
                     logging.info(f"user {self.id} receives")
             self.end = self.is_end()
             time.sleep(2)
-        self.evaluate()
 
 
 

@@ -15,6 +15,11 @@ SYSTEM_PROMPT = {"SNLI":"You are a expert at natrual language inference. You wil
          answer can be one of the two: 'correct' and 'incorrect'."
                  }
 
+LABEL_MAP = {'SNLI':{"neutral":"neutral","entailment":"entailment","contradiction":"contradiction"},
+             'FEVER':{"support":"SUPPORTS","refute":"REFUTES","not enough information":"NOT ENOUGH INFORMATION"},
+             'QQP':{"not equivalent":"non-entailment","equivalent":"entailment"},
+             'CoLA':{"incorrect":"incorrect","correct":"correct"}}
+
 class GPT():
     '''
     负责直接对openai API的调用
@@ -27,22 +32,27 @@ class GPT():
         '''
         将gpt的结果转化成标签
         '''
+        res_index = content.lower().find("the answer is")
+        if res_index >= 0:
+            res_content = content[res_index:]
+        else:
+            res_content = content
         if task == "SNLI":
             for label in ["neutral","entailment","contradiction"]:
-                if label in content:
-                    return label
+                if label in res_content.lower():
+                    return LABEL_MAP[task][label]
         elif task == "FEVER":
             for label in ["support","refute","not enough information"]:
-                if label in content:
-                    return label
+                if label in res_content.lower():
+                    return LABEL_MAP[task][label]
         elif task == "QQP":
             for label in ["not equivalent","equivalent"]:
-                if label in content:
-                    return label
+                if label in res_content.lower():
+                    return LABEL_MAP[task][label]
         elif task == "CoLA":
             for label in ["incorrect","correct"]:
-                if label in content:
-                    return label
+                if label in res_content.lower():
+                    return LABEL_MAP[task][label]
 
     def exception_process(self,exception):
         '''
@@ -66,7 +76,7 @@ class GPT():
             temperature=0,
             )
             content = res['choices'][0]['message']['content']
-       #     print(content)
+            logging.info(f"response : {content}")
             answer = self.verbalize(content,task)
             return answer
         except Exception as e:
@@ -76,7 +86,7 @@ class GPT():
         '''
         主程序
         不断发生prompt请求,每次得到一个prompt并进行API调用,将结果转化为标签后返回
-        每次API调用后sleep 20s (调用上限为1分钟3次)
+        每次API调用成功后sleep 20s (调用上限为1分钟3次)
         直到所有任务结束(end==True)
         '''
         logging.info('init gpt')
@@ -89,5 +99,5 @@ class GPT():
                 answer = self.response(prompt, task)
                 if not (answer is None):
                     submit( {'result':answer,'user_id':user_id,'task':task,'time':time.time()} )
-                    time.sleep(20)
+                time.sleep(20)
     

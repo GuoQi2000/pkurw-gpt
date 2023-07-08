@@ -2,3 +2,11 @@
 {"sentence1": "Is honey a viable alternative to sugar for diabetics ?", "sentence2": "How would you compare the United States ' euthanasia laws to Denmark ?", "gold_label": "non-entailment"}
 {"sentence1": "How can I stop my depression ?", "sentence2": "What can I do to stop being depressed ?", "gold_label": "entailment"}
 {"sentence1": "Why is Mia Khalifa suddenly so popular ?", "sentence2": "What are some tricks male porn stars have to last longer ?", "gold_label": "non-entailment"}
+{"sentence1": "How do you cook chicken gizzards ? What are the best recipes ?", "sentence2": "What can I do with chicken gizzards ?", "gold_label": "entailment"}
+{"sentence1": "How much money do you need to earn to live a comfortable life in INDIA ?", "sentence2": "How much money do you need to earn to live a comfortable life in Japan ?", "gold_label": "non-entailment"}
+{"sentence1": "When did you figure out that you want to be a graphic designer ?", "sentence2": "How did you figured out that you want to be a graphic designer ?", "gold_label": "entailment"}
+{"sentence1": "What is your favorite song and why ?", "sentence2": "What is your favorite song or artist ?", "gold_label": "non-entailment"}
+{"sentence1": "Which is the best android device to buy under 15000 ?", "sentence2": "What are the best smartphones under 15000 ?", "gold_label": "entailment"}
+{"sentence1": "Is there a chance that the faithless electors can change the result of 2016 US presidential election on December 19th 2016 ?", "sentence2": "Does the Electoral College have the power to reject Trump , or any candidate for that matter , if enough electors decided to change their vote ?", "gold_label": "non-entailment"}
+{"sentence1": "Which are some of the best pictures ever taken ?", "sentence2": "What are the most amazing photos you have ever taken ?", "gold_label": "entailment"}
+{"sentence1": "How much do graduation marks affect our admission in IIM and FMS if 10th and 12th score is 90 + ?", "sentence2": "I have 90 % in 10th grade , 87 % in 12th grade and 68 % in graduation . How is my profile for any of the IIMs ?", "gold_label": "non-entailment"}

@@ -7,20 +7,8 @@
 {"sentence": "I demand that the more John eat, the more he pays.", "gold_label": "incorrect"}
 {"sentence": "Mary listens to the Grateful Dead, she gets depressed.", "gold_label": "correct"}
 {"sentence": "The angrier Mary got, the more she looked at pictures.", "gold_label": "correct"}
-{"sentence": "The higher the stakes, the lower his expectations are.", "gold_label": "correct"}
-{"sentence": "The more Fred is obnoxious, the less attention you should pay to him.", "gold_label": "correct"}
-{"sentence": "John was lots more obnoxious than Fred.", "gold_label": "correct"}
-{"sentence": "The more people you give beer to, the more people get sick.", "gold_label": "correct"}
 {"sentence": "The more does Bill smoke, the more Susan hates him.", "gold_label": "incorrect"}
-{"sentence": "The more pictures of him that appear in the news, the more embarrassed John becomes.", "gold_label": "correct"}
-{"sentence": "Every senator seems to become more corrupt, as he talks to more lobbyists.", "gold_label": "correct"}
 {"sentence": "Who does John visit Sally because he likes?", "gold_label": "incorrect"}
-{"sentence": "Marianne did not leave.", "gold_label": "correct"}
-{"sentence": "He could not] have been working.", "gold_label": "correct"}
-{"sentence": "He can not have been working.", "gold_label": "correct"}
-{"sentence": "You will believe Bob.", "gold_label": "correct"}
-{"sentence": "John has not kissed Mary.", "gold_label": "correct"}
-{"sentence": "I said that never in my life had I seen a place like Bangor.", "gold_label": "correct"}
 {"sentence": "Mickey looked up it.", "gold_label": "incorrect"}
 {"sentence": "There tended to be a lot of discussion.", "gold_label": "correct"}
 {"sentence": "John tried to be a good boy.", "gold_label": "correct"}

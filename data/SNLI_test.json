@@ -1,3 +1,12 @@
 {"sentence1": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "sentence2": "The church has cracks in the ceiling.", "gold_label": "neutral"}
 {"sentence1": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "sentence2": "The church is filled with song.", "gold_label": "entailment"}
 {"sentence1": "This church choir sings to the masses as they sing joyous songs from the book at a church.", "sentence2": "A choir singing at a baseball game.", "gold_label": "contradiction"}
+{"sentence1": "A woman with a green headscarf, blue shirt and a very big grin.", "sentence2": "The woman is young.", "gold_label": "neutral"}
+{"sentence1": "A woman with a green headscarf, blue shirt and a very big grin.", "sentence2": "The woman is very happy.", "gold_label": "entailment"}
+{"sentence1": "A woman with a green headscarf, blue shirt and a very big grin.", "sentence2": "The woman has been shot.", "gold_label": "contradiction"}
+{"sentence1": "An old man with a package poses in front of an advertisement.", "sentence2": "A man poses in front of an ad.", "gold_label": "entailment"}
+{"sentence1": "An old man with a package poses in front of an advertisement.", "sentence2": "A man poses in front of an ad for beer.", "gold_label": "neutral"}
+{"sentence1": "An old man with a package poses in front of an advertisement.", "sentence2": "A man walks by an ad.", "gold_label": "contradiction"}
+{"sentence1": "A statue at a museum that no seems to be looking at.", "sentence2": "The statue is offensive and people are mad that it is on display.", "gold_label": "neutral"}
+{"sentence1": "A statue at a museum that no seems to be looking at.", "sentence2": "There is a statue that not many people seem to be interested in.", "gold_label": "entailment"}
+{"sentence1": "A statue at a museum that no seems to be looking at.", "sentence2": "Tons of people are gathered around the statue.", "gold_label": "contradiction"}
