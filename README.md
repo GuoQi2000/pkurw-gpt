@@ -50,15 +50,15 @@
    - 直接zero-shot的结果：
         |Dataset|Acc|F1-score|
         |---|---|---|
-        |SNLI|83.3|75.8|
-        |FEVER|58.3|61.5|
+        |SNLI|83.3|-|
+        |FEVER|58.3|-|
         |QQP|75.0|76.9|
         |CoLA|50.0|57.1|
     - few-shot + CoT的结果：
         |Dataset|Acc|F1-score|
         |---|---|---|
-        |SNLI|91.7|90.9|
-        |FEVER|58.3|66.7|
+        |SNLI|91.7|-|
+        |FEVER|58.3|-|
         |QQP|83.3|83.3|
         |CoLA|66.6|71.4|
     - 虽然测试集的数据量比较小，随机性比较大，但还是发现few-shot+CoT下的结果更好
